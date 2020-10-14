@@ -18,8 +18,8 @@ Here the preferred standard format to add suggestions:
 - Add a new file in the `channelsDescriptions` directory and use the channel name as filename followed by `.md` e.g. `iota-academy.md`
 - As content insert the description you'd like
 - Add also helpful links (full links only, no shorteners)
-- In the end add your Discord handle for the credits
-- Add a `|` at the end of every line, besides the `Credits` line. (**OPTIONAL**)
+- In the end add your Discord handle for the credits (**OPTIONAL**)
+- Add a `|` at the end of every line, besides the `Credits` line.
 
 The description has a limit of **1024 characters** and supports the default Discord emojis e.g.`:grin:`
 
