@@ -15,7 +15,7 @@ At the first login the IOTA Discord will show two options:
 * Access the **stay safe** guide, read this guide to understand the risks on Discord
 * Access the **house rules** channel, read these rules and accept them to gain access to all channels on Discord
 
-![First login](../assets/img/first_login.png)
+![First login](assets/img/first_login.png)
 
 
 
@@ -29,7 +29,7 @@ The IOTA Discord is divided in **Categories** and **Channels**.
 
 The Categories as of October 2020 are:
 
-![Discord categories](../assets/img/discord_categories.png)
+![Discord categories](assets/img/discord_categories.png)
 
 ### Foundation
 
@@ -37,7 +37,7 @@ The channels in this category are dedicated to the members of the IOTA Foundatio
 
 ### Information
 
-![Category Information](../assets/img/category_information.png)
+![Category Information](assets/img/category_information.png)
 
 * **stay-safe**
   Best practices to stay safe in the IOTA Discord
