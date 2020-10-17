@@ -47,3 +47,12 @@ The channels in this category are dedicated to the members of the IOTA Foundatio
   All tweets by the IOTA Engineering Team [@iota_dev](https://twitter.com/iota_dev/) on Twitter are posted here
 * **announcements**
   All official IOTA announcements are posted here 
+
+### Main
+
+![category_main](assets/img/category_main.png)
+
+* **casual**
+  Casual chit chat channel
+* **general**
+  General channel to discuss all things IOTA
