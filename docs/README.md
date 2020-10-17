@@ -12,8 +12,10 @@ Go to https://discord.iota.org to join the IOTA Discord.
 
 At the first login the IOTA Discord will show two options:
 
-* Access the **stay safe** guide, read this guide to understand the risks on Discord
-* Access the **house rules** channel, read these rules and accept them to gain access to all channels on Discord
+* Access the **stay safe** guide  
+  Read this guide to understand the risks on Discord
+* Access the **house rules** channel  
+  Read these rules and accept them to gain access to all channels on Discord
 
 ![First login](assets/img/first_login.png)
 
@@ -21,7 +23,7 @@ At the first login the IOTA Discord will show two options:
 
 ## The IOTA Discord Channels
 
-The IOTA Discord is divided in **Categories** and **Channels**.
+The IOTA Discord is divided in **Categories** and **Channels**.  
 
 \**The list of **Categories** and **Channels** are dynamic and change with time*
 
@@ -39,20 +41,20 @@ The channels in this category are dedicated to the members of the IOTA Foundatio
 
 ![Category Information](assets/img/category_information.png)
 
-* **stay-safe**
+* **stay-safe ** 
   Best practices to stay safe in the IOTA Discord
-* **read-me-first**
+* **read-me-first ** 
   Read the content of this channel first, make sure to agree the house rules and get access to the IOTA Discord Server by clicking on the :check: emoji
-* **dev-updates-twitter**
+* **dev-updates-twitter ** 
   All tweets by the IOTA Engineering Team [@iota_dev](https://twitter.com/iota_dev/) on Twitter are posted here
-* **announcements**
+* **announcements ** 
   All official IOTA announcements are posted here 
 
 ### Main
 
 ![category_main](assets/img/category_main.png)
 
-* **casual**
+* **casual ** 
   Casual chit chat channel
-* **general**
+* **general**  
   General channel to discuss all things IOTA
