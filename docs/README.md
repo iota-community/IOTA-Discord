@@ -44,7 +44,7 @@ The channels in this category are dedicated to the members of the IOTA Foundatio
 * **stay-safe**   
   Best practices to stay safe in the IOTA Discord
 * **read-me-first**   
-  Read the content of this channel first, make sure to agree the house rules and get access to the IOTA Discord Server by clicking on the :check: emoji
+  Read the content of this channel first, make sure to agree the house rules and get access to the IOTA Discord Server by clicking on the :heavy_check_mark: emoji
 * **dev-updates-twitter**   
   All tweets by the IOTA Engineering Team [@iota_dev](https://twitter.com/iota_dev/) on Twitter are posted here
 * **announcements**  
