@@ -8,5 +8,21 @@ If you are new to the [IOTA Discord](https://discord.iota.org) have a look at th
 
 The IOTA Discord is divided in **Categories** and **Channels**.
 
-\**The list of the **Channels** is dynamic and change with time*
+\**The list of **Categories** and **Channels** are dynamic and change with time*
+
+
+
+The Categories as of October 2020 are:
+
+![Discord categories](/assets/img/discord_categories.png)
+
+### Foundation
+
+The channels in this category are dedicated to the members of the IOTA Foundation and are hidden to other Discord users
+
+### Information
+
+![Category Information](/assets/img/category_information.png)
+
+
 
