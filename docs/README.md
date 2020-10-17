@@ -33,11 +33,11 @@ The Categories as of October 2020 are:
 
 ![Discord categories](assets/img/discord_categories.png)
 
-### Foundation
+### FOUNDATION
 
 The channels in this category are dedicated to the members of the IOTA Foundation and are hidden to other Discord users
 
-### Information
+### INFORMATION
 
 ![Category Information](assets/img/category_information.png)
 
@@ -50,7 +50,7 @@ The channels in this category are dedicated to the members of the IOTA Foundatio
 * **announcements**  
   All official IOTA announcements are posted here 
 
-### Main
+### MAIN
 
 ![category_main](assets/img/category_main.png)
 
