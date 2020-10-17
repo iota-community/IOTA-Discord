@@ -41,20 +41,20 @@ The channels in this category are dedicated to the members of the IOTA Foundatio
 
 ![Category Information](assets/img/category_information.png)
 
-* **stay-safe ** 
+* **stay-safe**   
   Best practices to stay safe in the IOTA Discord
-* **read-me-first ** 
+* **read-me-first**   
   Read the content of this channel first, make sure to agree the house rules and get access to the IOTA Discord Server by clicking on the :check: emoji
-* **dev-updates-twitter ** 
+* **dev-updates-twitter**   
   All tweets by the IOTA Engineering Team [@iota_dev](https://twitter.com/iota_dev/) on Twitter are posted here
-* **announcements ** 
+* **announcements**  
   All official IOTA announcements are posted here 
 
 ### Main
 
 ![category_main](assets/img/category_main.png)
 
-* **casual ** 
+* **casual**  
   Casual chit chat channel
 * **general**  
   General channel to discuss all things IOTA
