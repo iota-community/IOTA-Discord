@@ -34,4 +34,4 @@ Please **keep the discussions on-topic **based on the channel you are in. Off-to
 By being in this server you will comply to the **Discord Terms of Service**.  
 
 Please contact one of our moderators if you have any issues with another user of this Discord.
-Public feedback on moderation decisisons is not allowed, please DM the person in question if you have any questions about any action taken.  
+Public feedback on moderation decisions is not allowed, please DM the person in question if you have any questions about any action taken.  
