@@ -2,6 +2,9 @@
 List of rules for the membership screening functionality in Discord
 ![Discord Membership Screening](/_resources/images/membership_screening.png)
 
+
+:rotating_light: **NEVER EVER give away your IOTA Seed or Ledger Nano Recovery Phrase** to anyone. Not even if this person pretends to be from the IOTA Foundation.   
+
 Please **be respectful** to one another, regardless of what is being said. Disrespectful language or inappropriate emoji responses won't be tolerated.  
 
 This server is intended as a **family friendly server** where anyone with an interest in IOTA can contribute, regardless of age. Please refrain from posting material that isn't deemed **family friendly**.  
@@ -20,9 +23,7 @@ Please contact one of our moderators if you have any issues with another user of
 
 Public feedback on moderation decisisons is not allowed, please DM the person in question if you have any questions about any action taken.  
 
-By being in this server you will comply to the **Discord Terms of Service**.  
-
-:rotating_light: **NEVER EVER give away your IOTA Seed or Ledger Nano Recovery Phrase** to anyone. Not even if this person pretends to be from the IOTA Foundation.  
+By being in this server you will comply to the **Discord Terms of Service**.   
 
 :rotating_light: **Don't trust** someone from the IOTA Foundation or a known moderator/community member that DM's you. If you need to send a DM always initiate it yourself through the user menu in this server in order to avoid being DM-ed by a imposter.  
 
