@@ -1,6 +1,6 @@
 # Rules
 List of rules for the membership screening functionality in Discord
-
+![Discord Membership Screening](/_resources/images/membership_screening.png)
 
 Please **be respectful** to one another, regardless of what is being said. Disrespectful language or inappropriate emoji responses won't be tolerated.  
 
