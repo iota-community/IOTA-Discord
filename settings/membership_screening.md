@@ -11,7 +11,7 @@ List of rules for the membership screening functionality in Discord
 
 **Keep coin price discussions in #speculation**. This server is about technology, not coin prices. 
 
-**Advertising in this server is not allowed**. Explicit permission has been granted by someone from the IOTA Foundation.  
+**Advertising in this server is not allowed**. Explicit permission must be granted by someone from the IOTA Foundation. 
 
 Please **keep the discussions on-topic **based on the channel you are in. Off-topic talk is allowed in the #casual channel as long as it's respectful, family friendly, no advertisement, not about religion/politics and not about coin prices.  
 
