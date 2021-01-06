@@ -21,7 +21,7 @@ Please **keep the discussions on-topic **based on the channel you are in. Off-to
 
 :rotating_light: **Scammers will try to contact you via DM**. While we have safety protocols in place, it is a public server and fake accounts can find their way to the sever. 
 
-:rotating_light: **Don't trust someone from the IOTA Foundation or a known moderator/community member that DM's you**. If you need to send a DM always initiate it yourself through the user menu in this server in order to avoid being DM-ed by a imposter.  
+:rotating_light: **Don't trust someone from the IOTA Foundation or a known moderator/community member that DM's you**. If you need to send a DM always initiate it yourself through the user menu in this server in order to avoid being DM-ed by an imposter.  
 
 :rotating_light: **We NEVER ask you to transfer or exchange funds**. Don't trust anyone DM-ing you with a similar request and notify the moderators if this happens.  
 
