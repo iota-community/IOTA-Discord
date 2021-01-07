@@ -29,7 +29,7 @@ Please **keep the discussions on-topic **based on the channel you are in. Off-to
 
 :rotating_light: **Only download software from the original sources of the IOTA Foundation**. Don't trust direct links but always find the software you need on https://www.iota.org/, for Trinity always use https://trinity.iota.org/  
 
-:rotating_light: **Imposters use very convincing, almost identically looking usernames and avatars**. If you don't trust something ask for help in this server!  
+:rotating_light: **Imposters use very convincing, almost identical looking usernames and avatars**. If you don't trust something ask for help in this server!  
 
 By being in this server you will comply with the **Discord Terms of Service**.  
 
