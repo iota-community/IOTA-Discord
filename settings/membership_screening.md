@@ -21,7 +21,7 @@ Please **keep the discussions on-topic **based on the channel you are in. Off-to
 
 :rotating_light: **Scammers will try to contact you via DM**. While we have safety protocols in place, it is a public server and fake accounts can find their way to the sever. 
 
-:rotating_light: **Don't trust someone from the IOTA Foundation or a known moderator/community member that DM's you**. If you need to send a DM always initiate it yourself through the user menu in this server in order to avoid being DM-ed by an imposter.  
+:rotating_light: **Don't trust anyone from the IOTA Foundation or a known moderator/community member that DM's you**. If you need to send a DM always initiate it yourself through the user menu in this server in order to avoid being DM-ed by an imposter.  
 
 :rotating_light: **We NEVER ask you to transfer or exchange funds**. Don't trust anyone DM-ing you with a similar request and notify the moderators if this happens.  
 
@@ -29,9 +29,9 @@ Please **keep the discussions on-topic **based on the channel you are in. Off-to
 
 :rotating_light: **Only download software from the original sources of the IOTA Foundation**. Don't trust direct links but always find the software you need on https://www.iota.org/, for Trinity always use https://trinity.iota.org/  
 
-:rotating_light: **Imposters use very convincing, almost identically looking usernames and avatars**. If you don't trust it ask for help in this server!  
+:rotating_light: **Imposters use very convincing, almost identically looking usernames and avatars**. If you don't trust something ask for help in this server!  
 
-By being in this server you will comply to the **Discord Terms of Service**.  
+By being in this server you will comply with the **Discord Terms of Service**.  
 
 Please contact one of our moderators if you have any issues with another user of this Discord.
 Public feedback on moderation decisions is not allowed, please DM the person in question if you have any questions about any action taken.  
