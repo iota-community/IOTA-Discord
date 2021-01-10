@@ -2,36 +2,35 @@
 List of rules for the membership screening functionality in Discord
 ![Discord Membership Screening](/_resources/images/membership_screening.png)
 
+:rotating_light: **NEVER share your IOTA Seed or Ledger Nano Recovery Phrase with anyone**. Not even if someone claims to be from the IOTA Foundation.   
 
-:rotating_light: **NEVER EVER give away your IOTA Seed or Ledger Nano Recovery Phrase to anyone**. Not even if this person pretends to be from the IOTA Foundation.   
+**Disrespectful language and inappropriate emojis/photos are not tolerated**. Please be respectful to one another.
 
-**Disrespectful language or inappropriate emoji responses won't be tolerated**. Please be respectful to one another, regardless of what is being said.
+**This server is family friendly.** Anyone with an interest in IOTA can contribute. Please refrain from posting material that isn't family friendly.  
 
-**This server is intended as a family friendly server** where anyone with an interest in IOTA can contribute, regardless of age. Please refrain from posting material that isn't deemed family friendly.  
+**Keep token price discussions in #speculation**. This server is about technology, not token prices. 
 
-**Keep coin price discussions in #speculation**. This server is about technology, not coin prices. 
+**Advertising is not allowed**. Explicit permission must be granted by someone from the IOTA Foundation. 
 
-**Advertising in this server is not allowed**. Explicit permission must be granted by someone from the IOTA Foundation. 
+Please **keep discussions on-topic** for your current channel. Off-topic talk is allowed in the #casual channel. 
 
-Please **keep the discussions on-topic **based on the channel you are in. Off-topic talk is allowed in the #casual channel as long as it's respectful, family friendly, no advertisement, not about religion/politics and not about coin prices.  
+**Trolls are not welcome**. Please refrain from repeating the same argument or causing drama.  
 
-**Trolls are not welcome**. Please refrain from meming, repeating the same argument over and over again and causing drama.  
+**Do not ping IOTA Foundation members** unless they are already active in your channel. If you need to talk to someone, feel free to contact one of the Community managers (Antonio Nardella, Mark Schmidt or Dave de Fijter)  
 
-**Do not ping IOTA Foundation members** unless they are actively engaging at that point in time in the channel you are in. To talk to someone from the IOTA Foundation feel free to contact one of the Community managers/liaisons instead (Antonio Nardella, Mark Schmidt or Dave de Fijter)  
+:rotating_light: **Scammers will try to contact you via DM**. This is a public server and fake accounts may contact you. 
 
-:rotating_light: **Scammers will try to contact you via DM**. While we have safety protocols in place, it is a public server and fake accounts can find their way to the sever. 
+:rotating_light: **Don't trust IOTA Foundation, moderators, or community members that DM you.** Imposters are common. If you need to talk in DMs always initiate it yourself through the menu.  
 
-:rotating_light: **Don't trust anyone from the IOTA Foundation or a known moderator/community member that DM's you**. If you need to send a DM always initiate it yourself through the user menu in this server in order to avoid being DM-ed by an imposter.  
+:rotating_light: **Imposters use convincing, identical usernames and avatars**. If you don't trust something ask for help!
 
-:rotating_light: **We NEVER ask you to transfer or exchange funds**. Don't trust anyone DM-ing you with a similar request and notify the moderators if this happens.  
+:rotating_light: **We NEVER ask you to transfer or exchange funds**. Don't trust anyone making a similar request and notify the moderators if this happens.
+  
+:rotating_light: **Don't use websites or external services to generate seeds**. Always use a safe method like Trinity (the official IOTA wallet).  
 
-:rotating_light: **Don't use websites or external services to generate seeds**. Always use a safe method, for example by using the official IOTA wallet.  
+:rotating_light: **Only download software from official IOTA Foundation sources**. Don't trust direct links. Always find the software you need from https://www.iota.org/. For Trinity always use https://trinity.iota.org/.
 
-:rotating_light: **Only download software from the original sources of the IOTA Foundation**. Don't trust direct links but always find the software you need on https://www.iota.org/, for Trinity always use https://trinity.iota.org/  
+By being in this server you comply with the **Discord Terms of Service**.  
 
-:rotating_light: **Imposters use very convincing, almost or completely identical looking usernames and avatars**. If you don't trust something ask for help in this server!  
-
-By being in this server you will comply with the **Discord Terms of Service**.  
-
-Please contact one of our moderators if you have any issues with another user of this Discord.
+If you have any issues with another user of this Discord please contact one of our moderators.
 Public feedback on moderation decisions is not allowed, please DM the person in question if you have any questions about any action taken.  
