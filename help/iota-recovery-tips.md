@@ -34,6 +34,7 @@ This is a collection of information to help our users understand the status of t
 
 ## Correct but unused account a.k.a. Snapshot Transition
 
+- If the seed has less than 81 characters, one can pad the number `9` at the end of the input until the seed is 81 characters 
 - If the seed is 100% correct and the tokens were not moves for a long time (1-2 years) then:
 
   **A)** Set Trinity to the following node settings, follow the settings top to bottom, so, disable **Automatic node management** first and go from there and in the end click on the **Save** button on the bottom of the screen 
