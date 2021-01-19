@@ -29,10 +29,19 @@ This is a collection of information to help our users understand the status of t
 
 - Make sure to double/triple check if the seed is correct. By typing one wrong character an empty wallet will open. It is possible to use the following community tool to look for a typo in the seed.
 
-  :warning: THIS TOOL IS A COMMUNITY TOOL AND IS NOT ENDORSED BY THE IOTA Foundation. This tool also requires an Address where your tokens are, please make sure to have an address at hand where the tokens reside. It is possible to look at the exchange withdrawal history where the tokens have been retrieved:
+  :warning: THIS TOOL IS A COMMUNITY TOOL AND IS NOT ENDORSED BY THE IOTA Foundation.  
+  This tool also requires an Address where your tokens are, please make sure to have an address at hand where the tokens reside. It is possible to look at the exchange withdrawal history where the tokens have been retrieved:
   https://github.com/FVANtom/find-typo-in-iota-seed
+### How to find an IOTA address on Bitfinex
 
-## Correct but unused account a.k.a. Snapshot Transition
+Exhanges are required by AML law (Anti Money Laundering) to keep 5 years of financial records, therefore it should be possible to find an address in your withdrawals list.  
+Follow the official guide from Bitfinex to get a report:
+https://support.bitfinex.com/hc/en-us/articles/115003361173-Trade-Order-Reports
+and make sure that the dates are selected (by clicking on them) like in this picture here:
+![bitfinex-history](/_resources/images/help/bitfinex_history.png)
+
+  
+### Correct but unused account a.k.a. Snapshot Transition
 
 - If the seed has less than 81 characters, one can pad the number `9` at the end of the input until the seed is 81 characters 
 - If the seed is 100% correct and the tokens were not moves for a long time (1-2 years) then:
