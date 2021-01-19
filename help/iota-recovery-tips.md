@@ -29,7 +29,7 @@ This is a collection of information to help our users understand the status of t
 
 - Make sure to double/triple check if the seed is correct. By typing one wrong character an empty wallet will open. It is possible to use the following community tool to look for a typo in the seed.
 
-  WARNING: THIS TOOL IS A COMMUNITY TOOL AND IS NOT ENDORSED BY THE IOTA Foundation:
+  :warning: THIS TOOL IS A COMMUNITY TOOL AND IS NOT ENDORSED BY THE IOTA Foundation. This tool also requires an Address where your tokens are, please make sure to have an address at hand where the tokens reside. It is possible to look at the exchange withdrawal history where the tokens have been retrieved:
   https://github.com/FVANtom/find-typo-in-iota-seed
 
 ## Correct but unused account a.k.a. Snapshot Transition
@@ -50,7 +50,9 @@ This is a collection of information to help our users understand the status of t
 
   **B)** Please verify an address (from an exchange or similar) on https://explorer.iota.org  to see if the tokens are still there. 
   -  If the explorer shows 0 balance and there are also **outgoing** transactions that it is necessary to follow the outgoing transactions
-  -  If the explorer shows 0 balance, AND there are **no outgoing** transactions, then it might be a reclaim case. It is possible to search the address in this page for a first assessment:
+  -  If the explorer shows 0 balance, AND there are **no outgoing** transactions, then it might be a reclaim case. It is possible to search your address and compare it with the list on the following page for a first assessment.  
+  
+  :warning: THE LIST CONTAINS ONLY ADDRESSES WITHOUT CHECKSUM. Should the address have 90 characters, make sure to remove the last 9 characters from the address that is being compared  
   https://gist.githubusercontent.com/cyclux/2bb05d873c4ec6115cad1d100263d489/raw/612a49e46091586957448f6606ea981ab18022e7/snapshot_validation_20171023.txt
   
   - If the text near the address says **AVAILABLE** then it is possible to access the tokens by inserting the correct seed into Trinity
