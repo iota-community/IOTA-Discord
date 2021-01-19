@@ -51,7 +51,6 @@ This is a collection of information to help our users understand the status of t
   **B)** Please verify an address (from an exchange or similar) on https://explorer.iota.org  to see if the tokens are still there. 
   -  If the explorer shows 0 balance and there are also **outgoing** transactions that it is necessary to follow the outgoing transactions
   -  If the explorer shows 0 balance, AND there are **no outgoing** transactions, then it might be a reclaim case. It is possible to search your address and compare it with the list on the following page for a first assessment.  
-  
   :warning: THE LIST CONTAINS ONLY ADDRESSES WITHOUT CHECKSUM. Should the address have 90 characters, make sure to remove the last 9 characters from the address that is being compared  
   https://gist.githubusercontent.com/cyclux/2bb05d873c4ec6115cad1d100263d489/raw/612a49e46091586957448f6606ea981ab18022e7/snapshot_validation_20171023.txt
   
