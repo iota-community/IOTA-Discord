@@ -102,7 +102,13 @@ Your Ledger * index = unique seed.
 Ledger * index 0 will generate seed ABC *while*  
 Ledger * index 10 will generate seed XYZ
 - Make sure you use the original USB Cable if possible. Don't use a USB HUB or USB ports on the display/monitor/keyboard but **connect it directly to your system**
-- Close all applications that can access the Ledger deviceo e.g. Ledger Live, Browsers with metamask or the Brave browser
+- Close all applications that can access the Ledger device e.g. Ledger Live, Browsers with metamask or the Brave browser
+- Remove the Ledger device from the Windows Device Manager (right-click > uninstall device), unplug it, reconnect it and let Windows install the drivers again
+
+If you still experiencing issues with the Ledger, please follow the following procedure:
+Close everything on your computer. This includes Ledger Live which should not be running at the same time as Trinity.
+Plugin your Ledger. Unlock it with your passcode. Browse to the IOTA App on your Ledger and enter the app.
+Now start Trinity and try setting up your account again.
 
 ### Trinity gives an error
 
