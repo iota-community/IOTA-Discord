@@ -12,6 +12,7 @@ This is a collection of information to help our users understand the status of t
 - [Wallet migration following the Moonpay incident](#wallet-migration-following-the-moonpay-incident)
 - [Wallet NOT migrated following the Moonpay incident](#wallet-not-migrated-following-the-moonpay-incident)
 - [Ledger Nano S or X issues](#ledger-nano-s-or-x-issues)
+  * [I have lost the index](#i-have-lost-the-index)
   * [Trinity gives an error](#trinity-gives-an-error)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -109,6 +110,11 @@ If you still experiencing issues with the Ledger, please follow the following pr
 Close everything on your computer. This includes Ledger Live which should not be running at the same time as Trinity.
 Plugin your Ledger. Unlock it with your passcode. Browse to the IOTA App on your Ledger and enter the app.
 Now start Trinity and try setting up your account again.
+
+### I have lost the index
+:warning: THIS TOOL IS A COMMUNITY TOOL AND IS NOT ENDORSED BY THE IOTA Foundation and will **break the security** of using a hardware wallet.  
+This tool is made to find the correct Ledger account index in case you forgot to write it down.  
+https://github.com/HBMY289/iotaLedgerIndexFinder
 
 ### Trinity gives an error
 
