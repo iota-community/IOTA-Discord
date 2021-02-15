@@ -12,6 +12,7 @@ This is a collection of information to help our users understand the status of t
 - [Wallet migration following the Moonpay incident](#wallet-migration-following-the-moonpay-incident)
 - [Wallet NOT migrated following the Moonpay incident](#wallet-not-migrated-following-the-moonpay-incident)
 - [Ledger Nano S or X issues](#ledger-nano-s-or-x-issues)
+  * [Trinity gives an error](#trinity-gives-an-error)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -102,3 +103,10 @@ Ledger * index 0 will generate seed ABC *while*
 Ledger * index 10 will generate seed XYZ
 - Make sure you use the original USB Cable if possible. Don't use a USB HUB or USB ports on the display/monitor/keyboard but **connect it directly to your system**
 - Close all applications that can access the Ledger deviceo e.g. Ledger Live, Browsers with metamask or the Brave browser
+
+### Trinity gives an error
+
+If Trinity shows this error:  
+![](https://miro.medium.com/max/2618/1*GpJag1JbcVDoK4DGRZlBUg.png)  
+Have a look at this guide by HBMY:
+https://medium.com/@hbmy289/how-to-access-iota-funds-spread-over-too-many-inputs-on-ledger-nano-s-74708548fa6e
