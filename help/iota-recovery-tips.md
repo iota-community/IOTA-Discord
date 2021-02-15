@@ -11,6 +11,7 @@ This is a collection of information to help our users understand the status of t
 - [Trinity Incident](#trinity-incident)
 - [Wallet migration following the Moonpay incident](#wallet-migration-following-the-moonpay-incident)
 - [Wallet NOT migrated following the Moonpay incident](#wallet-not-migrated-following-the-moonpay-incident)
+- [Ledger Nano S or X issues](#ledger-nano-s-or-x-issues)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -92,3 +93,12 @@ and make sure that the dates are selected (by clicking on them) like in this pic
 
 ## Wallet NOT migrated following the Moonpay incident
 - Did the tokens move away **on or after the 11th March 2020**, then the user did not follow the migration, the seed might have been part of the aforementioned incident and the tokens have been stolen. In this case we encourage users who have had tokens stolen to file a report with their local police and to cite the following case number when doing so: LKA Berlin, Center for Cybercrime, case number: 200213-1717-i00290.
+
+## Ledger Nano S or X issues
+- Make sure the same account is in use (24 words, mnemonic recovery words) as when it was set up the first time
+- The **INDEX** is fundamental to load the correct IOTA Seed.  
+Your Ledger * index = unique seed.  
+Ledger * index 0 will generate seed ABC *while*  
+Ledger * index 10 will generate seed XYZ
+- Make sure you use the original USB Cable if possible. Don't use a USB HUB or USB ports on the display/monitor/keyboard but **connect it directly to your system**
+- Close all applications that can access the Ledger deviceo e.g. Ledger Live, Browsers with metamask or the Brave browser
