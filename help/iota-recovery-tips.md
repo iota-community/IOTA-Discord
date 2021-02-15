@@ -112,7 +112,7 @@ Now start Trinity and try setting up your account again.
 
 ### Trinity gives an error
 
-If Trinity shows this error:  
+If Trinity shows the following error or *Invalid bundle* in the Error Log, please read the following guide:  
 ![](https://miro.medium.com/max/2618/1*GpJag1JbcVDoK4DGRZlBUg.png)  
 Have a look at this guide by HBMY:
 https://medium.com/@hbmy289/how-to-access-iota-funds-spread-over-too-many-inputs-on-ledger-nano-s-74708548fa6e
