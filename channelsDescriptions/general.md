@@ -1,5 +1,5 @@
 Welcome! 
-This is the main chat of this IOTA - Discord. It’s an open forum discuss all generally IOTA and cryptocurrency related content. 
+This is the main chat of this IOTA - Discord. It’s an open forum to discuss all generally IOTA related topics.
 Feel free to ask questions and share your opinions here. 
 Should you have questions to a specific topic of IOTA please check also the channel list on the left side of your screen. 
 You might find more topic specific discussion channels there.
