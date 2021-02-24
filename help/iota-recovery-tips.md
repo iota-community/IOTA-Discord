@@ -14,6 +14,7 @@ This is a collection of information to help our users understand the status of t
 - [Ledger Nano S or X issues](#ledger-nano-s-or-x-issues)
   * [I have lost the index](#i-have-lost-the-index)
   * [Trinity gives an error](#trinity-gives-an-error)
+- [Exchange Issues](#exchange-issues)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -37,7 +38,7 @@ This is a collection of information to help our users understand the status of t
   https://github.com/FVANtom/find-typo-in-iota-seed
 ### How to find an IOTA address on Bitfinex
 
-Exhanges are required by AML law (Anti Money Laundering) to keep 5 years of financial records, therefore it should be possible to find an address in your withdrawals list.  
+Exchanges are required for AML reasons (Anti Money Laundering) to keep financial  records for five years. Therefore it should be possible to find an address in your withdrawals list.  
 Follow the official guide from Bitfinex to get a report:
 https://support.bitfinex.com/hc/en-us/articles/115003361173-Trade-Order-Reports
 and make sure that the dates are selected (by clicking on them) like in this picture here:
@@ -47,7 +48,7 @@ and make sure that the dates are selected (by clicking on them) like in this pic
 ### Correct but unused account a.k.a. Snapshot Transition
 
 - If the seed has less than 81 characters, one can pad the number `9` at the end of the input until the seed is 81 characters 
-- If the seed is 100% correct and the tokens were not moves for a long time (1-2 years) then:
+- If the seed is 100% correct and the tokens were not moved for a long time (1-2 years) then:
 
   **A)** Set Trinity to the following node settings, follow the settings top to bottom, so, disable **Automatic node management** first and go from there and in the end click on the **Save** button on the bottom of the screen 
 
@@ -61,7 +62,7 @@ and make sure that the dates are selected (by clicking on them) like in this pic
 ## Reclaim
 
   **B)** Please verify an address (from an exchange or similar) on https://explorer.iota.org  to see if the tokens are still there. 
-  -  If the explorer shows 0 balance and there are also **outgoing** transactions that it is necessary to follow the outgoing transactions
+  -  If the explorer shows 0 balance and there are also **outgoing** transactions then it is necessary to follow the outgoing transactions
   -  If the explorer shows 0 balance, AND there are **no outgoing** transactions, then it might be a reclaim case. It is possible to search your address and compare it with the list on the following page for a first assessment.  
   :warning: THE LIST CONTAINS ONLY ADDRESSES WITHOUT CHECKSUM. Should the address have 90 characters, make sure to remove the last 9 characters from the address that is being compared  
   https://gist.githubusercontent.com/cyclux/2bb05d873c4ec6115cad1d100263d489/raw/612a49e46091586957448f6606ea981ab18022e7/snapshot_validation_20171023.txt
@@ -84,14 +85,14 @@ and make sure that the dates are selected (by clicking on them) like in this pic
   https://www.europol.europa.eu/newsroom/news/cryptocurrency-iota-international-police-cooperation-arrests-suspect-behind-10-million-eur-theft
   This was the procedure that has been followed by one of the IOTA community users:
   The local police department received a questionnaire  from the state criminal investigation office which was to fill out. It was e.g. about the cyrpto-background; how the user found iotaseed.io; amount of coins,... 
-  After answering all questions the next steps was basically that they are preparing a class action against the thief. This also includes Europol. So the users answers will be forwarded and collected at a higher instance before the perpetrator is sued.
+  After answering all questions the next step was basically that they are preparing a class action against the thief. This also includes Europol. So the users answers will be forwarded and collected at a higher instance before the perpetrator is sued.
 
 ## Trinity Incident
 
-- Did the tokens move away between the **12th December 2019 and the 12th February 2020**, the user might be victim of the Trinity Incident, that involved the theft of the seed during the time Trinity integrated the Moonpay services. In that case send the address to the IOTA Foundation for further verification. (More information here: https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8)
+- Did the tokens move away between the **12th December 2019 and the 12th February 2020**, the user might be a victim of the Trinity Incident, that involved the theft of the seed during the time Trinity integrated the Moonpay services. In that case send the address to the IOTA Foundation for further verification. (More information here: https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8)
 
 ## Wallet migration following the Moonpay incident
-- Did the tokens move away between the **29th February 2020 and the 10th March 2020**, then it looks like the user was aware of the theft and did the migration using the migration tool (https://blog.iota.org/seed-migration-tool-now-available-c253ccd9d23c/). In this case there should be a SeedVault.kdbx and a journal.log file on their system. Make sure now to add the password protected SeedVault to Trinity. Be aware that the SeedVault file is password protected that has been chosen by the user during migration. Without the password it will not be possible to recover the tokens. . This video shows the whole migration and how to add the SeedVault to Trinity (https://www.youtube.com/watch?v=mjex3IU44VY)
+- Did the tokens move away between the **29th February 2020 and the 10th March 2020**, then it looks like the user was aware of the theft and did the migration using the migration tool (https://blog.iota.org/seed-migration-tool-now-available-c253ccd9d23c/). In this case there should be a SeedVault.kdbx and a journal.log file on their system. Make sure now to add the password protected SeedVault to Trinity. Be aware that the SeedVault file is password protected that has been chosen by the user during migration. Without the password it will not be possible to recover the tokens. This video shows the whole migration and how to add the SeedVault to Trinity (https://www.youtube.com/watch?v=mjex3IU44VY)
 
 ## Wallet NOT migrated following the Moonpay incident
 - Did the tokens move away **on or after the 11th March 2020**, then the user did not follow the migration, the seed might have been part of the aforementioned incident and the tokens have been stolen. In this case we encourage users who have had tokens stolen to file a report with their local police and to cite the following case number when doing so: LKA Berlin, Center for Cybercrime, case number: 200213-1717-i00290.
@@ -122,3 +123,9 @@ If Trinity shows the following error or *Invalid bundle* in the Error Log, pleas
 ![](https://miro.medium.com/max/2618/1*GpJag1JbcVDoK4DGRZlBUg.png)  
 Have a look at this guide by HBMY:
 https://medium.com/@hbmy289/how-to-access-iota-funds-spread-over-too-many-inputs-on-ledger-nano-s-74708548fa6e
+
+## Exchange Issues
+- Were the funds sent to an exchange twice to the same address?
+- Were funds withdrawn from an exchange and are still not in your wallet?  
+Get in touch with the exchange’s support team. The IOTA Foundation is not involved in third party services.
+
