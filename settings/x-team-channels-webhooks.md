@@ -1,7 +1,7 @@
 This guide explains how to get issues from GitHub into the IOTA Experience Team channels.
 Every IOTA Experience Team Initiative is assigned a GitHub repository in the iota-community group. It is possible to set up webhooks, to cross-communicate initiatives and events from GitHub to Discord.
 *example*:
-![img](/_resources/images/settings/aca05222-5d18-4b08-ac42-232cbaacb4c4.PNG)
+![img](/_resources/images/settings/aca05222-5d18-4b08-ac42-232cbaacb4c4.png)
 ## Instructions
 In **this example** we will set up the webhook for the **IOTA Streams Experience Team**.
 1. Go to the X-Team relative channel in Discord and **Edit the channel**  
