@@ -15,6 +15,7 @@ This is a collection of information to help our users understand the status of t
   * [I have lost the index](#i-have-lost-the-index)
   * [Trinity gives an error](#trinity-gives-an-error)
 - [Exchange Issues](#exchange-issues)
+- [YDX](#ydx)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -129,3 +130,11 @@ https://medium.com/@hbmy289/how-to-access-iota-funds-spread-over-too-many-inputs
 - Were funds withdrawn from an exchange and are still not in your wallet?  
 Get in touch with the exchange’s support team. The IOTA Foundation is not involved in third party services.
 
+## YDX
+This is the message by YDX posted to the IOTA Discord.  
+Direct link to the message: https://discord.com/channels/397872799483428865/398499876935303186/818548205372964884  
+
+_"Hi, so a quick message here because I see some people complaining and maybe mods can send them to this post in the future. Ydx closed a year ago after a 2 years shutdown notice with monthly, then bi-monthly channel notifications. It was initially a 1 year notice but considering the balances left, we gave another 1 year for users to withdraw before it shuts down. I logged back into Discord a couple weeks ago because, with the price development, some people might have shown up eventually. I had 3 dm's and 2 of them are sorted. They might feel free to confirm that here, it's not from me to say what has been sent to who. Why did it close? There was 0 activity and if minus was available, we would have been there. People think it costs nothing to store large amounts, they couldn't be more wrong. If we've been successful at escrowing large amounts, this is mainly due to our process and the platform never got hacked or scammed. So at some point, after 2 years tagging people constantly, you shut everything down... especially considering the small amounts left overall. Or you just wait for 1 message per year while maintaining at an important cost. Obviously not counting the money we also invested for the discord bot also and that barely no one has ever used and Slack free plan as well which keeps no history and makes it extremely difficult to keep track of messages and activity. I don't like being called names when we gave such a long notice, especially when such cases happen in the industry and a provider shuts down, they will give you a 2 weeks notice. But it's fine, I guess it's part of the process where people will judge us responsible for their inaction. Feel free to dm me but don't even try to impersonate other users, we know exactly how to identify the legit users. Be aware I barely never log into discord so if I don't reply right away, no I'm not gone, I'm just not here._
+
+Message screenshot:
+![](https://i.imgur.com/ohDEzVM.png)
