@@ -6,6 +6,7 @@ and we encourage you to test it and report bugs here https://github.com/iotaledg
 
 Find more information here:
 https://blog.iota.org/firefly-beta-release/
+
 https://blog.iota.org/firefly-iota-next-generation-wallet-26bdd4d01510/
 
 @Phylo#2233
