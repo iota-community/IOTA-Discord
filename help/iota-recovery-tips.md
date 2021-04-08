@@ -21,14 +21,16 @@ This is a collection of information to help our users understand the status of t
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-## IMPORTANT INFORMATION - READ BEFORE PROCEEDING
+## IMPORTANT INFORMATION READ BEFORE PROCEEDING
 
 IOTA is a decentralized, permissionless, free, and open cryptocurrency. In other words, "you are your own bank". As a consequence the IOTA Foundation and it's members cannot provide user-level support. While we'd love to help every single early adopter, it would simply exceed the available resources. 
 
 ## How do I migrate from the IOTA Light Wallet to Trinity or Firefly
 
 The IOTA Tokens are not directly in your wallet but reside on the IOTA Tangle. With your Seed (private key) you gain access to them, to move them around between addresses in the network. Hence you can access your tokens from the Trinity wallet with the same seed you used for the previous IOTA Light wallet.  
-Please note that the development of the light wallet is deprecated and it should be used. In case your previous light wallet seed is shorter than 81 characters please fill up the remaining characters with **9** until you have 81 characters.
+Please note that the development of the light wallet is deprecated and it should **NOT** be used.  
+Download the latest Trinity Wallet Version from here: https://trinity.iota.org  
+In case your previous light wallet seed is shorter than 81 characters please fill up the remaining characters with **9** until you have 81 characters.
 
 ## Differences between a wallet account with a correct seed and a new seed
 
