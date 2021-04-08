@@ -97,7 +97,8 @@ and make sure that the dates are selected (by clicking on them) like in this pic
   **UPDATE 8th April 2021**
   Tweet: https://twitter.com/iota/status/1380166277747126275  
   
-  Victims need to report to their local Police station. The information that you will need to provide is:  
+  Victims need to report to their local Police station. The local Police will then know the process of going via their Legal Prosecutor to make contact with the UK or they will go via Europol or Interpol.
+  The information that you will need to provide is:  
   •Full name  
   •Date of birth and place of birth  
   •Full address  
