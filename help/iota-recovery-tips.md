@@ -2,6 +2,7 @@
 
 This is a collection of information to help our users understand the status of their IOTA 1.0 wallet
 
+- [IMPORTANT INFORMATION - READ BEFORE PROCEEDING](#important-information-read-before-proceeding)
 - [Differences between a wallet account with a correct seed and a new seed](#differences-between-a-wallet-account-with-a-correct-seed-and-a-new-seed)
   * [Address list of a correct seed](#address-list-of-a-correct-seed)
   * [Address list of a new seed](#address-list-of-a-new-seed)
@@ -19,6 +20,9 @@ This is a collection of information to help our users understand the status of t
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+## IMPORTANT INFORMATION - READ BEFORE PROCEEDING
+
+IOTA is a decentralized, permissionless, free, and open cryptocurrency. In other words, "you are your own bank". As a consequence the IOTA Foundation and it's members cannot provide user-level support. While we'd love to help every single early adopter, it would simply exceed the available resources. 
 
 ## Differences between a wallet account with a correct seed and a new seed
 
@@ -126,9 +130,15 @@ Have a look at this guide by HBMY:
 https://medium.com/@hbmy289/how-to-access-iota-funds-spread-over-too-many-inputs-on-ledger-nano-s-74708548fa6e
 
 ## Exchange Issues
+- Something with my IOTA transfer went wrong, my Tokens did not arrive from an Exchange
+- My exchange does not credit my IOTA tokens
 - Were the funds sent to an exchange twice to the same address?
 - Were funds withdrawn from an exchange and are still not in your wallet?  
-Get in touch with the exchange’s support team. The IOTA Foundation is not involved in third party services.
+
+IOTA is a permissionless protocol. As such, we are unable to interact with the transfer between you and your exchange. Please contact the support of your corresponding exchange.
+
+- How do I withdraw from my exchange?
+Your exchange should provide this information as part of an FAQ or similar. Please not that we are not able to provide specific withdrawal instructions for IOTA tokens for every IOTA trading exchange.
 
 ## YDX
 This is the message by YDX posted to the IOTA Discord.  
