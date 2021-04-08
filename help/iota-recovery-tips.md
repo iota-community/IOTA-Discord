@@ -96,10 +96,32 @@ and make sure that the dates are selected (by clicking on them) like in this pic
 
   **UPDATE 8th April 2021**
   Tweet: https://twitter.com/iota/status/1380166277747126275  
-  This is the procedure to follow by the victims:
-
-  Victims need to file a report with their local authorities. They can direct their local law enforcement to point to the ongoing investigation of the South East Regional Organised Crime Unit (SEROCU) Cyber Crime Unit citing “OPERATION HYPHEN”
-
+  
+  Victims need to report to their local Police station. The information that you will need to provide is:  
+  •Full name  
+  •Date of birth and place of birth  
+  •Full address  
+  •Contact telephone number  
+  •Email address  
+  •ID Document  
+  
+  **Details required from officer/staff**  
+  The contact details of the representative taking the statement, to include name, email address, telephone number, and address of their police station
+  
+  **Suggested questions for victims (not exhaustive)**
+  1. Detail previous knowledge / experience of cryptocurrency
+  2. How did they become aware of IOTA and the seed generator?
+  3. Which seed generator was used?
+  4. Did they get any encouragement from another user to use www.iotaseed.io ? If so, who? When, and how, was this communicated?
+  5. Proof of purchase of IOTA, to include all addresses affected, dates/times, screenshots, photographs, edited statements and if possible also in electronic form
+  6. How, when and what quantity was moved? How much does this equate to in losses(specify fiat currency)?
+  7. Theft. When did they notice IOTA had been moved? How did they become aware? If they became aware during the unauthorised movement, did they attempt to prevent it?
+  8. Seed Security. In regards to security of the seeds, were they: printed out and left in public view; stored in plain text on devices, or shared with anyone else?  If so,  who?
+  9. In regards to device security, do they have the latest software installed, latest anti-virus checkers?
+  10. Confirmation as to whether they gave anyone authority to move their IOTA on their behalf?  If yes, to whom did they give authority?
+  11. What impact has the loss had on them?
+  12. Any other questions the statement taker considers relevant to the investigation.
+  The local Police will then know the process of going via their Legal Prosecutor to make contact with the UK or they will go via Europol or Interpol to contact us. 
 
 ## Trinity Incident
 
