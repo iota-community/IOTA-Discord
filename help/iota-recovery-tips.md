@@ -3,6 +3,7 @@
 This is a collection of information to help our users understand the status of their IOTA 1.0 wallet
 
 - [IMPORTANT INFORMATION - READ BEFORE PROCEEDING](#important-information-read-before-proceeding)
+- [How do I migrate from the IOTA Light Wallet to Trinity or Firefly](#how-do-i-migrate-from-the-iota-light-wallet-to-trinity-or-firefly)
 - [Differences between a wallet account with a correct seed and a new seed](#differences-between-a-wallet-account-with-a-correct-seed-and-a-new-seed)
   * [Address list of a correct seed](#address-list-of-a-correct-seed)
   * [Address list of a new seed](#address-list-of-a-new-seed)
@@ -23,6 +24,11 @@ This is a collection of information to help our users understand the status of t
 ## IMPORTANT INFORMATION - READ BEFORE PROCEEDING
 
 IOTA is a decentralized, permissionless, free, and open cryptocurrency. In other words, "you are your own bank". As a consequence the IOTA Foundation and it's members cannot provide user-level support. While we'd love to help every single early adopter, it would simply exceed the available resources. 
+
+## How do I migrate from the IOTA Light Wallet to Trinity or Firefly
+
+The IOTA Tokens are not directly in your wallet but reside on the IOTA Tangle. With your Seed (private key) you gain access to them, to move them around between addresses in the network. Hence you can access your tokens from the Trinity wallet with the same seed you used for the previous IOTA Light wallet.  
+Please note that the development of the light wallet is deprecated and it should be used. In case your previous light wallet seed is shorter than 81 characters please fill up the remaining characters with **9** until you have 81 characters.
 
 ## Differences between a wallet account with a correct seed and a new seed
 
@@ -137,7 +143,8 @@ https://medium.com/@hbmy289/how-to-access-iota-funds-spread-over-too-many-inputs
 
 IOTA is a permissionless protocol. As such, we are unable to interact with the transfer between you and your exchange. Please contact the support of your corresponding exchange.
 
-- How do I withdraw from my exchange?
+- How do I withdraw from my exchange?  
+
 Your exchange should provide this information as part of an FAQ or similar. Please not that we are not able to provide specific withdrawal instructions for IOTA tokens for every IOTA trading exchange.
 
 ## YDX
