@@ -94,11 +94,11 @@ and make sure that the dates are selected (by clicking on them) like in this pic
 ## iotaseed.io or online seed generator scam
 - Did the tokens move away between **January 2018** and **January 2019** and the seed was generated using iotaseed.io, then it is a theft case from the iotaseed.io scam.
 
-**UPDATE 8th April 2021**
-Tweet: https://twitter.com/iota/status/1380166277747126275  
-This is the procedure to follow by the victims:
+  **UPDATE 8th April 2021**
+  Tweet: https://twitter.com/iota/status/1380166277747126275  
+  This is the procedure to follow by the victims:
 
-Victims need to file a report with their local authorities. They can direct their local law enforcement to point to the ongoing investigation of the South East Regional Organised Crime Unit (SEROCU) Cyber Crime Unit citing “OPERATION HYPHEN”
+  Victims need to file a report with their local authorities. They can direct their local law enforcement to point to the ongoing investigation of the South East Regional Organised Crime Unit (SEROCU) Cyber Crime Unit citing “OPERATION HYPHEN”
 
 
 ## Trinity Incident
