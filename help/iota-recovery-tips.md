@@ -123,8 +123,7 @@ and make sure that the dates are selected (by clicking on them) like in this pic
   10. Confirmation as to whether they gave anyone authority to move their IOTA on their behalf?  If yes, to whom did they give authority?
   11. What impact has the loss had on them?
   12. Any other questions the statement taker considers relevant to the investigation.
-  The local Police will then know the process of going via their Legal Prosecutor to make contact with the UK or they will go via Europol or Interpol to contact us. 
-
+  
 ## Trinity Incident
 
 - Did the tokens move away between the **12th December 2019 and the 12th February 2020**, the user might be a victim of the Trinity Incident, that involved the theft of the seed during the time Trinity integrated the Moonpay services. In that case send the address to the IOTA Foundation for further verification. (More information here: https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8)
