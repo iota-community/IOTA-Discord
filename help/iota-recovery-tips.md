@@ -92,13 +92,14 @@ and make sure that the dates are selected (by clicking on them) like in this pic
   ![image-20210110180647260](/_resources/images/help/image-20210110180647260.png)
 
 ## iotaseed.io or online seed generator scam
-
 - Did the tokens move away between **January 2018** and **January 2019** and the seed was generated using iotaseed.io, then it is a theft case from the iotaseed.io scam.
-  This is the relative article from Europol:
-  https://www.europol.europa.eu/newsroom/news/cryptocurrency-iota-international-police-cooperation-arrests-suspect-behind-10-million-eur-theft
-  This was the procedure that has been followed by one of the IOTA community users:
-  The local police department received a questionnaire  from the state criminal investigation office which was to fill out. It was e.g. about the cyrpto-background; how the user found iotaseed.io; amount of coins,... 
-  After answering all questions the next step was basically that they are preparing a class action against the thief. This also includes Europol. So the users answers will be forwarded and collected at a higher instance before the perpetrator is sued.
+
+**UPDATE 8th April 2021**
+Tweet: https://twitter.com/iota/status/1380166277747126275  
+This is the procedure to follow by the victims:
+
+Victims need to file a report with their local authorities. They can direct their local law enforcement to point to the ongoing investigation of the South East Regional Organised Crime Unit (SEROCU) Cyber Crime Unit citing “OPERATION HYPHEN”
+
 
 ## Trinity Incident
 
