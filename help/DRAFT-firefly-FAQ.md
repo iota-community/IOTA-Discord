@@ -1,3 +1,11 @@
+# Hello IOTA Community!
+# Have a look at this draft and contribute to the FAQ by adding your questions here: https://forms.gle/L9nxek9KonCFvHqw8
+  
+  
+  
+  
+  
+
 # Setup and installation
 ## I’m worried I might make a mistake when setting up Firefly!
 Don’t worry! All you need to do is download Firefly only from the official website for your preferred OS and start the setup. The application has been designed to guide you through setting up your account, securing it, [and migrating your tokens successfully.](https://blog.iota.org/firefly-token-migration/)
@@ -27,7 +35,6 @@ Seed migrations can be made after the migration period ends, at least until [Coo
 
 ## Why should I do regular Stronghold backups?
 Performing regular Stronghold backups will allow you to keep up to date recoveries should something happen, where you would then have a complete recovery of your funds.
-
 
 ## What is an internal transfer? Is it different from a normal transaction? 
 An internal transfer is the same as a normal transaction, it’s just made between your own accounts; it's also handled fully on the Tangle. Here, it's simply easier to perform as the address doesn’t need to be input by you!
