@@ -20,7 +20,7 @@ Firefly will attempt to consolidate all of your funds but there is a chance some
 
 
 ## As I understand dust protection, in Chrysalis, it will no longer be possible to have seeds that contain <1 Mi? So what will happen if I try to migrate those (I have a few of them)? Will I have to make sure all these seeds get consolidated before Chrysalis launches? Or will Firefly support migrating x old seeds into a single new one?
-Seeds and also single addresses that are a part of Seeds with <1 Mi balance are considered dust and will not be able to migrate. We recommend sending all of those small balances to 1 new address on a new seed to consolidate them and reach a balance of >1 Mi on this new address. This address can be migrated without issues.
+Seeds and also single addresses that are a part of Seeds with <1 Mi balance are considered dust and will not be able to migrate. We recommend sending all of those small balances to 1 new address on a new seed to consolidate them and reach a balance of >=1 Mi on this new address. This address can be migrated without issues.
 
 
 ## Will the Firefly mobile app be available upon Chrysalis release or do I have to migrate on PC?
