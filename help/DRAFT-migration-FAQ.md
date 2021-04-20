@@ -51,3 +51,12 @@ The 24 words some users currently have for the hardware Ledger *is the recovery 
 The 24 words that users can currently use for Firefly Beta *is the recovery phrase for the software wallet stored in Stronghold*, should they lose their Stronghold backup file or it becomes corrupted somehow.  
 [The first Firefly v1.0.0 wallet that is going to be released will not support hardware ledger](https://blog.iota.org/firefly-token-migration/), so if you'd like to trade your tokens before 28 April 2021, you have to send your tokens to a normal seed in Trinity from the hardware ledger before 28 April 2021.  
 Additionally, the next Firefly update that comes in a couple of weeks will support hardware Ledgers. You will be able to migrate your funds to the hardware Ledger then.
+
+## Will Trinity stop working on the 28th of April.
+With the 28th of April Trinity can only be used to migrate seed to the Chrysalis network.
+
+## What will happen If I do not migrate now?
+Token holders will continue to be able to migrate their tokens at least until Coordicide
+
+## What do I have to do if my MIOTA are on an exchange?
+The exchanges migrate the tokens they control. Verify with the exchange if they support Chrysalis. 
