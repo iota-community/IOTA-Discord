@@ -59,4 +59,4 @@ With the 28th of April Trinity can only be used to migrate seed to the Chrysalis
 Token holders will continue to be able to migrate their tokens at least until Coordicide
 
 ## What do I have to do if my MIOTA are on an exchange?
-The exchanges migrate the tokens they control. Verify with the exchange if they support Chrysalis. 
+The exchanges migrate the tokens they control. Verify with the exchange when they will support Chrysalis. 
