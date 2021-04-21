@@ -2,8 +2,6 @@
 # Have a look at this draft and contribute to the FAQ by adding your questions here: https://forms.gle/5amEK4BqJ1b5FaQr8
   
   
-- [Hello IOTA Community!](#hello-iota-community-)
-- [Have a look at this draft and contribute to the FAQ by adding your questions here: https://forms.gle/5amEK4BqJ1b5FaQr8](#have-a-look-at-this-draft-and-contribute-to-the-faq-by-adding-your-questions-here--https---formsgle-5amek4bqj1b5faqr8)
   * [I have migrated the tokens, what's next?](#i-have-migrated-the-tokens--what-s-next-)
   * [What if something goes wrong while I migrate? Who do I contact?](#what-if-something-goes-wrong-while-i-migrate--who-do-i-contact-)
   * [If I have multiple addresses associated with one seed, will the Chrysalis migration amalgamate all of my tokens to one address?](#if-i-have-multiple-addresses-associated-with-one-seed--will-the-chrysalis-migration-amalgamate-all-of-my-tokens-to-one-address-)
@@ -19,9 +17,13 @@
   * [What do I have to do if my MIOTA are on an exchange?](#what-do-i-have-to-do-if-my-miota-are-on-an-exchange-)
   * [Does it matter if some of my addresses are on a ledger and some are not?](#does-it-matter-if-some-of-my-addresses-are-on-a-ledger-and-some-are-not-)
   * [I cannot send iota from my trinity wallet to my ledger iota wallet. It says it is to dangerous to use one adress twice. Please help me.](#i-cannot-send-iota-from-my-trinity-wallet-to-my-ledger-iota-wallet-it-says-it-is-to-dangerous-to-use-one-adress-twice-please-help-me)
+- [Migration errors](#migration-errors)
+  * [LegacyClientError: https://nodes.iota.xxx/: status code 400](#legacyclienterror--https---nodesiotaxxx---status-code-400)
+  * [The screen containing the wallet balance is not displayed after importing the .kdbx file](#the-screen-containing-the-wallet-balance-is-not-displayed-after-importing-the-kdbx-file)
+  * [The migration failed. After 1h waiting my PC froze and restart. The tokens on Trinity are sent.](#the-migration-failed-after-1h-waiting-my-pc-froze-and-restart-the-tokens-on-trinity-are-sent)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-  
+
   
   
 ## I have migrated the tokens, what's next?
