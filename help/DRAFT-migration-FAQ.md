@@ -21,8 +21,11 @@
   * [LegacyClientError: https://nodes.iota.xxx/: status code 400](#legacyclienterror--https---nodesiotaxxx---status-code-400)
   * [The screen containing the wallet balance is not displayed after importing the .kdbx file](#the-screen-containing-the-wallet-balance-is-not-displayed-after-importing-the-kdbx-file)
   * [The migration failed. After 1h waiting my PC froze and restart. The tokens on Trinity are sent.](#the-migration-failed-after-1h-waiting-my-pc-froze-and-restart-the-tokens-on-trinity-are-sent)
+- [Linux specific](#linux-specific)
+  * [After entering the seed, Firefly is blank (white)](#after-entering-the-seed--firefly-is-blank--white-)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
   
   
@@ -105,3 +108,14 @@ The problem is the selected language from Firefly. Set the language to English.
 
 ## The migration failed. After 1h waiting my PC froze and restart. The tokens on Trinity are sent.
 If the tokens are confirmed in an outgoing transaction in Trinity, reimport the stronghold or recovery phrase. Firefly will show 0 balance until Chrysalis on April 28th
+
+# Linux specific
+## After entering the seed, Firefly is blank (white)
+Please run Firefly from the Terminal. If following errors are displayed
+```
+Error occurred in handler for 'keychain-set': [Error: The name 
+org.freedesktop.secrets was not provided by any .service files]
+```
+Please install `libsecret`
+Debian based distro: `sudo apt install gnome-keyring`
+Arch based distro: `sudo pacman -S libsecret`
