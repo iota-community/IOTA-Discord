@@ -93,3 +93,13 @@ In this case you migrate in 2 different profiles. One with the seed and the one 
 Hello, if you click the "Max" button while sending it will select all other tokens that can be sent.
 The rest of the tokens that are on a locked address can be migrated with Firefly once the Ledger will be supported.
 
+# Migration errors
+
+## LegacyClientError: https://nodes.iota.xxx/: status code 400
+Restart the migration. Start the whole process again from start to finish
+
+## The screen containing the wallet balance is not displayed after importing the .kdbx file
+The problem is the selected language from Firefly. Set the language to English.
+
+## The migration failed. After 1h waiting my PC froze and restart. The tokens on Trinity are sent.
+If the tokens are confirmed in an outgoing transaction in Trinity, reimport the stronghold or recovery phrase. Firefly will show 0 balance until Chrysalis on April 28th
