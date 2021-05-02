@@ -6,7 +6,7 @@ It is possible to change the command the one that starts with `!` and to change 
 
 :warning: If you find outdated commands and responses.
 
-* Moderators: Please discuss the proposal together in the `#mod` channel
+* Moderators: Please discuss the proposal together in the `#mods` channel
 * Community members: Please discuss the proposal together in the `#experience` channel
 
 
