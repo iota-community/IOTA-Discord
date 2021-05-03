@@ -16,6 +16,7 @@ This is a collection of information to help our users understand the status of t
 - [Ledger Nano S or X issues](#ledger-nano-s-or-x-issues)
   * [I have lost the index](#i-have-lost-the-index)
   * [Trinity gives an error](#trinity-gives-an-error)
+- [Zero funds - LAST RESORT](#zero-funds-last-resort)
 - [Exchange Issues](#exchange-issues)
 - [YDX](#ydx)
 
@@ -160,6 +161,82 @@ If Trinity shows the following error or *Invalid bundle* in the Error Log, pleas
 ![](https://miro.medium.com/max/2618/1*GpJag1JbcVDoK4DGRZlBUg.png)  
 Have a look at this guide by HBMY:
 https://medium.com/@hbmy289/how-to-access-iota-funds-spread-over-too-many-inputs-on-ledger-nano-s-74708548fa6e
+
+## Zero funds LAST RESORT
+This step is to be seen as **LAST RESORT** if after tryng all of the above the funds are not available.  
+:warning: THESE TOOLS ARE COMMUNITY TOOL AND ARE NOT ENDORSED BY THE IOTA Foundation.  
+
+### OPTION A) HBMY's iotaZeroBalanceHelper
+:warning: THIS TOOL IS A COMMUNITY TOOL AND IS NOT ENDORSED BY THE IOTA Foundation.  
+
+_The following information has been taken from the original repository_
+This program was written to help Iota users who unexpectedly see a zero balance in their Trinity wallet. There are multiple reasons why this could be happening and often it is not easy for non-experts to find out what is going on.
+
+#### Disclaimer
+NEVER share your seed with anyone. No community member or member of the Iota Foundation will ever ask for your seed. If someone does it is 100% a scam to steal your money. That said, even entering your seed into a software other than the official Iota wallet should not be handled lightly and can only be recommended as a last resort. For your own safety you should run this software only an an air-gapped computer. 
+
+#### What does it do?
+The goal is that the program lets unexperienced users test what could possibly cause Trinity to not show the expected balance. I plan to add more tests over time.
+The program allows to 
+1. check if funds on addresses of a seed were taken into custody by the Iota Foundation in late 2017. If this is the case the affected funds are reclaimable.
+2. check if there is any balance that Trinity might not show. The program will list all addresses with balance while Trinity will often only show a single address if no funds are found. 
+3. export a list of generated addresses to be tested with the online tool [iotaAddressHistoryChecker](https://github.com/HBMY289/iotaAddressHistoryChecker)
+4. check for typos in the seed (not implemented yet)
+
+Seeds that are too short or too long will be adadpted in the same way the Iota Light Wallet did.
+
+##### Reclaim
+With the given seed the programm calculates a large number of addresses both using the current address generation algorith and the one that was used in 2017 and earlier. These addresses are then matched against a list of reclaimable addresses. Possible matches and reclaimable balance will be shown. If no match is found using the Iota reclaim process will NOT bring back your balance.
+
+##### Balance
+If a reclaim case could be ruled out, the balance option will generate addresses using the current algorithm and compare them to an internally stored snapshot of the tangle. This snapshot holds all addresses with balances and by matching against this list the program does not need any connection to the internet or the current tangle to check balances. Currently a snapshot file from Feb 12th, 2021 is included. If you are missing a funds that have been moved after this date you can supply a more recent snapshot file. Ask someone who has access to a Iota node to run the following command and supply you with the resulting file.
+```
+curl -H 'X-IOTA-API-VERSION: 1' -d '{"command":"getLedgerState"}' localhost:14265 >  snapshot.txt
+```
+Place the file `snapshot.txt` next to this tool's executable. It will be automatically be used when checking the balances.
+
+##### Export Addresses to check online
+This program requires to enter your seed and is designed to run without any internet connection. If all your addresses still do not show any balance you can check the addresses on the Iota tangle explorer [https://explorer.iota.org/legacy-mainnet](https://explorer.iota.org/legacy-mainnet) for any transactions that show where your funds went. To avoid having to enter all addresses manually I wrote another tool that automates this process ([iotaAddressHistoryChecker](https://github.com/HBMY289/iotaAddressHistoryChecker)). It will require a list of addresses exported by the iotaZeroBalanceHelper and then request all available tranascations from the explorer. It will report any token movements in a short and human readable report.
+
+**Finally HBMY's iotaZeroBalanceHelper is available here**: https://github.com/HBMY289/iotaZeroBalanceHelper/releases
+
+### OPTION B) FVANtom's IOTA seed typo finder
+:warning: THIS TOOL IS A COMMUNITY TOOL AND IS NOT ENDORSED BY THE IOTA Foundation.  
+
+_The following information has been taken from the original repository_
+##### WARNING
+
+NEVER give your seed to anyone, not even to someone you think you can trust. Not even the devs. There's scammers out there. NEVER enter your seed into or download any software that is closed source and/or that hasn't been reviewed and approved by either the IOTA foundation or at least the IOTA community.
+
+
+#### What does this tool do
+
+I have written this tool to help a user on Reddit who accidentally made a typo in his seed while logging in into the wallet.
+
+He then transfered iota to the address he generated and logged out of his wallet.
+
+Because he accidentally made a typo when logging in, he lost access to his funds.
+
+This program checks the most common typing mistakes and tries to find the real seed (typo-seed) of the address the funds were transferred to.
+
+* Generating seeds with one missing character readded
+* Generating seeds with one character missing
+* Generating seeds with character typed double
+* Generating seeds with letters that look like each other replaced
+* Generating seeds with block of 2 character retyped
+* Generating seeds with 2 neighbouring characters switched
+* Generating seeds with 1 character mistyped
+
+#### Who is this program useful for
+
+Anyone who transferred funds to an IOTA address of a seed similar to his own but with a typo and doesn't know the 'typo-seed'.
+
+#### To use this program you will need:
+
+* Your original seed
+* The address your funds were transfered (belonging to the 'typo-seed')
+
+**Finally FVANtom's IOTA seed typo finder is available here**: https://github.com/FVANtom/find-typo-in-iota-seed/releases
 
 ## Exchange Issues
 - Something with my IOTA transfer went wrong, my Tokens did not arrive from an Exchange
