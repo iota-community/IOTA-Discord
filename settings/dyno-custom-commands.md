@@ -25,7 +25,10 @@ https://people.eecs.berkeley.edu/~dawnsong/papers/sybil.pdf and https://www.cs.m
 
 ### !explain_consensus
 
+the current situation until Coordicide
 https://github.com/noneymous/iota-consensus-presentation/blob/master/README.md
+the implementation after Coordicide:
+https://arxiv.org/pdf/1905.10895.pdf
 
 
 
@@ -36,14 +39,13 @@ https://github.com/noneymous/iota-consensus-presentation/blob/master/README.md
 Read more about **Security during the Chrysalis migration** here:
 <https://blog.iota.org/security-during-token-migration/>
 
-### !nodeinsync
-
-Sometimes a host node will fall out of sync and wallets may not appear to be showing the proper information. Double check if the two numbers in the bottom left corner of your wallet are identical (or off by 1-2). Also double check the two numbers are at or near the latest milestone displayed in the #botbox channel. If they're not, change your host node through Tools - Edit Node Configuration. You can check public node health at http://iota.dance/nodes and http://iotanode.host/
 
 ### !whitepaper
 
-check the latest one from Popov
-https://forum.helloiota.com/732/The-Tangle-whitepaper
+check the latest one from Popov that describes the Tangle and the implementation in IOTA 1.0
+https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf
+the future of IOTA lies in here - all about Coordicide:
+https://files.iota.org/papers/20200120_Coordicide_WP.pdf
 
 ### !banhammered
 
@@ -72,7 +74,7 @@ https://forum.helloiota.com/732/The-Tangle-whitepaper
 
 ### !stolen
 
-Do you see an unauthorized outgoing transaction in your wallet? You have likely used malicious online seed generators when generating your seed. If the stolen transaction is still pending (it'll say "Pending" underneath the transaction in your wallet history), URGENTLY send your entire balance to an address in a different seed. Check here: https://forum.helloiota.com/9100/To-everyone-posting-with-stolen-balances
+Do you see a wrong balance or missing funds in your wallet. You might be victim of a theft. Please first read here about possible situations that might fit to you and try the given solutions. Reach out to the IOTA community {#help} channel in the official IOTA discord https://discord.com/channels/397872799483428865/398499876935303186 to get help and find a solution.
 
 ### !welcome
 
@@ -98,13 +100,10 @@ Lots of people around to help out - let us know what we can do for you.
 
 Mods for the official communication channels of IOTA are carefully chosen by the IOTA founders and are based on their trustworthiness and contribution to the community, there are no applications to become a mod. If you contribute to the community you might eventually be approached to become one if you want to. Please do not ask us to become a mod.
 
-### !lmsi
-
-Check https://x-vps.com/lmsi
 
 ### !zerofunds
 
-![](https://cdn.discordapp.com/attachments/398745525375205379/408742416963600385/IOTA_Snapshot.gif)
+https://github.com/iota-community/IOTA-Discord/blob/main/help/iota-recovery-tips.md
 
 ### !invitelink
 
@@ -155,9 +154,6 @@ Follow the steps on this link <https://blog.iota.org/firefly-token-migration/>
 
 ![](https://media.discordapp.net/attachments/834486932666187848/834491858914377758/new--1-.png)
 
-### !nobalance
-
-If you have no balance in Trinity but did do the migration during the seed migration period make sure you create a new account and import your new seedvault, provided by the migration tool, as the existing seed. If you have no history at all for your account in Trinity you probably mistyped your seed, please enter it again and double check. If you see a outgoing value transaction in Trinity that you did not make feel free to contact someone from the IOTA Foundation through DM here. ** Beware: Always start the DM yourself, don't trust others DM-ing you, they might be a impersonator. Never give away your seed, ledger recovery phrase or personal information to anyone over DM**.
 
 ### !hornetissue
 
@@ -193,3 +189,16 @@ Check in trinity if your funds are out and sent to an address starting with "TRA
 ### !migration-steps
 
 ![](https://cdn.discordapp.com/attachments/401389663236915200/836879248802709504/unknown.png)
+
+
+### !mana
+
+Learn more about Mana and its planned implementation in the upcoming IOTA 2.0 here
+
+https://blog.iota.org/explaining-mana-in-iota-6f636690b916/
+
+questions related to mana are best asked in the {#tanglemath} channel here in the Discord Server
+
+
+
+
