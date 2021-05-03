@@ -1,6 +1,6 @@
 # Actual Dynobot custom commands on the IOTA Discord
 
-*Last update 2021 05 02*
+*Last update 2021 05 03*
 
 It is possible to change the command the one that starts with `!` and to change the response.
 
