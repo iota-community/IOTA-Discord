@@ -197,6 +197,19 @@ https://blog.iota.org/explaining-mana-in-iota-6f636690b916/
 
 questions related to mana are best asked in the {#tanglemath} channel here in the Discord Server
 
+### !firefly-funds
 
+This can occasionally happen and will be fixed in further releases. To fix it and get direct access to your funds do the following: Make sure that you have a backup of your 24 Seed words and also the stronghold backup file created in the initial profile setup for the migration. If you are sure you have this please uninstall Firefly from your operating System.
+Now you need to delete the remaining Firefly folder on your OS located here:
+```
+Windows: "C:\Users[username]\AppData\Roaming\Firefly 
+Mac: ~/Library/Application Support/Firefly 
+Linux: ~/.config/Firefly 
+```
 
+After you have deleted those folder please install Firefly again from the newest release on the Firefly Website, create a profile and use the “Migrate or restore a wallet” Function.
+
+Now use your Firefly recovery phrase or your File backup (stronghold File)
+To restore your Migration profile.
+The funds will appear as Balance and you can start using Firefly with your tokens.
 
