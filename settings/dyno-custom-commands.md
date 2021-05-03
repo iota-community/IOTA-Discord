@@ -30,8 +30,6 @@ https://github.com/noneymous/iota-consensus-presentation/blob/master/README.md
 the implementation after Coordicide:
 https://arxiv.org/pdf/1905.10895.pdf
 
-
-
 ### !warn-scam
 
 ⚠️ Reminder: don’t trust anyone asking for your seed, even if they claim they’re IOTA Foundation members. Please report these scammers to one of the admins. ⚠️
@@ -102,7 +100,7 @@ Mods for the official communication channels of IOTA are carefully chosen by the
 
 
 ### !zerofunds
-
+Have a look at this page for tips to recover your tokens first:  
 https://github.com/iota-community/IOTA-Discord/blob/main/help/iota-recovery-tips.md
 
 ### !invitelink
