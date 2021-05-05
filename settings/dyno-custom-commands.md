@@ -1,6 +1,6 @@
 # Actual Dynobot custom commands on the IOTA Discord
 
-*Last update 2021 05 03*
+*Last update 2021 05 05*
 
 It is possible to change the command the one that starts with `!` and to change the response.
 
@@ -13,9 +13,11 @@ It is possible to change the command the one that starts with `!` and to change 
 
 ## Custom Commands start here  
 
-### !focus
+### !seed
 
-IOTA is fundamentally not about the market cap. Currently, virtually all posts in here are about the price or exchanges, this is not what this subreddit is for. This subreddit is for the IOTA project, not the IOTA price, we have /r/iotamarkets and /r/cryptomarkets for that. The thing that made IOTA great in the first place is its insistence on focusing on actual progress and the cutting edge technology that it is. I want more brainstorming about use cases, see more meetups arranged, more discussions about the technology itself, the different modules etc. https://www.reddit.com/r/Iota/comments/7hxfgx/focus/
+The IOTA SEED in the new network consists of a *24 WORDS MNEMONIC PHRASE*!
+Its is the most important part in the setup of your Firefly Wallet that you *BACKUP THE 24 WORDS*!
+:warning: **NEVER SHARE THOSE WORDS WITH ANYONE!!!**
 
 ### !explain_sybilattack
 
