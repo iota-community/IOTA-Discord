@@ -26,9 +26,9 @@ Please **keep discussions on-topic** for your current channel. Off-topic talk is
 
 :rotating_light: **We NEVER ask you to transfer or exchange funds**. Don't trust anyone making a similar request and notify the moderators if this happens.
   
-:rotating_light: **Don't use websites or external services to generate seeds**. Always use a safe method like Trinity (the official IOTA wallet).  
+:rotating_light: **Don't use websites or external services to generate seeds**. Always use a safe method like Firefly (the official IOTA wallet).  
 
-:rotating_light: **Only download software from official IOTA Foundation sources**. Don't trust direct links. Always find the software you need from https://www.iota.org/. For Trinity always use https://trinity.iota.org/.
+:rotating_light: **Only download software from official IOTA Foundation sources**. Don't trust direct links. Always find the software you need from https://www.iota.org/. For Firefly always use https://firefly.iota.org/.
 
 By being in this server you comply with the **Discord Terms of Service**.  
 
