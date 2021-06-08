@@ -1,4 +1,4 @@
-Firefly is IOTAS new Wallet. Carefully crafted and developed for the new IOTA 1.5 network and the future of IOTA.
+Firefly is IOTAs new Wallet. Carefully crafted and developed for the new IOTA Chrysalis network and the future of IOTA.
 Discuss functions and architecture here.
 
 Currently Firefly is available to download here:
