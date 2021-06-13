@@ -204,7 +204,7 @@ questions related to mana are best asked in the {#tanglemath} channel here in th
 This can occasionally happen and will be fixed in further releases. To fix it and get direct access to your funds do the following: Make sure that you have a backup of your 24 Seed words and also the stronghold backup file created in the initial profile setup for the migration. If you are sure you have this please uninstall Firefly from your operating System.
 Now you need to delete the remaining Firefly folder on your OS located here:
 ```
-Windows: "C:\Users[username]\AppData\Roaming\Firefly 
+Windows: "C:\Users\[username]\AppData\Roaming\Firefly 
 Mac: ~/Library/Application Support/Firefly 
 Linux: ~/.config/Firefly 
 ```
