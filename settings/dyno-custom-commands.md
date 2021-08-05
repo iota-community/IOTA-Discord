@@ -72,9 +72,9 @@ https://files.iota.org/papers/20200120_Coordicide_WP.pdf
   - language/region specific ranks: opt-in channel or category  eg. de, jp, ausnz
 ```
 
-### !stolen
+### !finding-balance
 
-Do you see a wrong balance or missing funds in your wallet. You might be victim of a theft. Please first read here about possible situations that might fit to you and try the given solutions. Reach out to the IOTA community {#help} channel in the official IOTA discord https://discord.com/channels/397872799483428865/398499876935303186 to get help and find a solution.
+If your Ledger does not generate addresses on Windows while finding balance, disconnect the device and try again. Failing that, restart Firefly.
 
 ### !welcome
 
