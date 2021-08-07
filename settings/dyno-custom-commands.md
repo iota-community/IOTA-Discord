@@ -51,26 +51,13 @@ https://files.iota.org/papers/20200120_Coordicide_WP.pdf
 
 ![](http://i0.kym-cdn.com/photos/images/newsfeed/000/024/724/ban_hammer.jpg)
 
-### !rank_description
+### !ledger-usb
 
-```autohotkey
-***** Rank descriptions *****
-  - iota-squad: news spreading/IOTA awareness team | opt-in #marketing #anti-fud #projects #donations 
+Having trouble with the Ledger and Firefly?
+Verify your USB connection according to the official Ledger support:
+<https://support.ledger.com/hc/en-us/articles/360019868977-Fix-USB-connection-issues-with-Ledger-Live?support=true>
 
-  - fullnode: fullnode owners | opt-in #nodesharing | for mention
-
-  - nelson: nelson users | for mention
-
-  - non-dev: opt-out DEVELOPMENT and DEVELOPMENT-EXT categories
-
-  - speculation: opt-in SPECULATION category
-
-  - exchanges: opt-in EXCHANGES category
-
-  - no-feeds: opt-out FEEDS category
-
-  - language/region specific ranks: opt-in channel or category  eg. de, jp, ausnz
-```
+*image link* https://media.discordapp.net/attachments/828625524510163024/873298026859491368/issue.JPG
 
 ### !finding-balance
 
