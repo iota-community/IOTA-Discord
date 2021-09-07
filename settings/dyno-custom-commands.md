@@ -127,7 +127,12 @@ Please be mindful of the official Iota Discord rules and etiquette: :one: Be cou
 
 ### !spec
 
-You can join the {#speculation} channel by going to the {#rank-yourself} channel and typing `!rank speculation`
+Hello, please let's keep the discussion in {channel} on topic.  
+
+- For price talk join the {#speculation} channel  
+- To talk about other tokens join the {#altcoins} channel  
+
+Thank you!
 
 ### !theway
 
