@@ -185,11 +185,19 @@ Check in trinity if your funds are out and sent to an address starting with "TRA
 
 ### !mana
 
-Learn more about Mana and its planned implementation in the upcoming IOTA 2.0 here
+Learn more about Mana and its planned implementation in the upcoming IOTA 2.0:
 
-https://blog.iota.org/explaining-mana-in-iota-6f636690b916/
+Articles:
+- <https://blog.iota.org/explaining-mana-in-iota-6f636690b916/>
+- <https://blog.iota.org/explaining-mana-in-iota-part-2/>
+- <https://blog.iota.org/mana-parallels-to-human-voting-systems-and-ingenious-concepts/>
 
-questions related to mana are best asked in the {#tanglemath} channel here in the Discord Server
+Videos:
+- Introduction to Coordicide Specifications Episode 2 – Mana (18 min) <https://www.youtube.com/watch?v=Z2nFEsruw2c>
+- Overview of the IOTA 2.0 Protocol - IOTA Research Symposium 2021 (Starts at min 27:29) <https://youtu.be/RoEsXJusRY4?t=1649>
+
+
+The {#tanglemath} channel is available for questions related to mana
 
 ### !firefly-funds
 
