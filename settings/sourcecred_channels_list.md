@@ -1,0 +1,12 @@
+### Legend:
+- Category: ID
+- #channel: ID
+
+# List
+Staff: 400637307146862602
+#mods: 397872995127001108
+Community: 397872799483428866
+Governance: 839923788517998612
+Smart Contracts: 900733907228585994
+#tanglemath: 399035929106579466
+IOTA Experience Teams: 701858056312717352
