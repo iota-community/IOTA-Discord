@@ -95,6 +95,10 @@ and make sure that the dates are selected (by clicking on them) like in this pic
 ## iotaseed.io or online seed generator scam
 - Did the tokens move away between **January 2018** and **January 2019** and the seed was generated using iotaseed.io, then it is a theft case from the iotaseed.io scam.
 
+  **UPDATE 26th November 2021**
+  Message by Koen on Discord
+  ![image](https://user-images.githubusercontent.com/7383572/143553341-e4e2389b-7608-4f2a-8ae2-38eda6e2e89e.png)
+
   **UPDATE 28th July 2021**
   Community member message on Discord
   ![image](https://user-images.githubusercontent.com/7383572/127305878-bda589e1-9a30-473c-9ed3-586222f31717.png)
