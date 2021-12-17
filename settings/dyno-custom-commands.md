@@ -215,3 +215,15 @@ Now use your Firefly recovery phrase or your File backup (stronghold File)
 To restore your Migration profile.
 The funds will appear as Balance and you can start using Firefly with your tokens.
 
+### !withdrawal
+
+If the exchange has suspended the token withdrawals or your withdrawal is still pending, get in touch with the exchange's support
+
+### !exchange
+If the exchange never opened withdrawal since April 2021, then it might be a good idea to change to an exchange that has activated withdrawals 
+
+
+### !bep20
+
+If you exchange tokens on Binance and it does not recognize Firefly's address, then you have bought IOTA tokens wrapped on Binance's BEP-20 network. To get tokens to Firefly one needs IOTA tokens that reside on IOTA's network (called the Tangle). To achieve this, send the tokens back to Binance and withdraw them to the Tangle network.
+Should Binance have issues with withdrawals, get in touch with Binance's support.
