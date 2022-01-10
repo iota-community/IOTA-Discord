@@ -210,7 +210,7 @@ Place the file `snapshot.txt` next to this tool's executable. It will be automat
 ##### Export Addresses to check online
 This program requires to enter your seed and is designed to run without any internet connection. If all your addresses still do not show any balance you can check the addresses on the Iota tangle explorer [https://explorer.iota.org/legacy-mainnet](https://explorer.iota.org/legacy-mainnet) for any transactions that show where your funds went. To avoid having to enter all addresses manually I wrote another tool that automates this process ([iotaAddressHistoryChecker](https://github.com/HBMY289/iotaAddressHistoryChecker)). It will require a list of addresses exported by the iotaZeroBalanceHelper and then request all available tranascations from the explorer. It will report any token movements in a short and human readable report.
 
-**Finally HBMY's iotaZeroBalanceHelper is available here**: https://github.com/HBMY289/iotaZeroBalanceHelper/releases
+**Finally HBMY's iotaZeroBalanceHelper is available here**: https://github.com/iota-community/iotaZeroBalanceHelper/releases
 
 ### OPTION B) FVANtom's IOTA seed typo finder
 :warning: THIS TOOL IS A COMMUNITY TOOL AND IS NOT ENDORSED BY THE IOTA Foundation.  
