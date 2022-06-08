@@ -32,8 +32,8 @@ This Discord server aims to discuss IOTA research, technology, community develop
 - No fake news/screenshots.
 - Please do not ping IOTA Founders or members unless they are actively engaging in the channel you are in.
 - If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead (<@105306128761503744>, <@451662043506933780>, or <@192661920153731074>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288> or <@453235678386585601>
-- Please get in touch with @Contact Moderators if you have any issues with another user of this Discord. 
-- Public feedback on Mod decisions is not allowed. Instead, use the @Contact Moderators account or "direct message" a mod if you disagree with the moderation.
+- Please get in touch with <@839573754686078978> if you have any issues with another user of this Discord. 
+- Public feedback on Mod decisions is not allowed. Instead, use the <@839573754686078978> account or "direct message" a mod if you disagree with the moderation.
 - Questions about development progress should be constructive and sincere. 
 - Have fun and stay safe!
 - By being on this server, you will comply with the Discord Terms of Service. https://discord.com/guidelines
@@ -69,7 +69,8 @@ Please remember one of the essential rules in the crypto space: you are your own
 
 ## Message 6
 
-Quick tips 
+**Quick tips**
+
 - You can change your nickname by clicking on "IOTA" on the top left of the screen - choose "Change Nickname" from the dropdown. This only changes your nickname on the IOTA Discord 
 - We have a few region- and language-specific channels on this Discord, but they are read-only by default. To gain writing privileges, please visit the <#884705920028930068> channel and click on the regional emoji to access the dedicated channel 
 If you do not want to receive updates on a particular channel or category or want to hide specific channels, please "right-click" on that channel and choose the option "mute channel". You can also hide muted channels by following the official instructions here: <https://support.discord.com/hc/en-us/articles/213599277-How-do-I-hide-muted-channels->
