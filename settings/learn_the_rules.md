@@ -4,17 +4,17 @@ Use these messages with Dyno to update the rules. Messages are split to circumve
 
 ## Message 1
 
-Welcome to the official IOTA Discord Server
+Welcome to the official IOTA & Shimmer Discord Server
 
 _Please make sure to read and agree upon these house rules_
 
-This Discord server aims to discuss IOTA research, technology, community development, and collaboration with the IOTA Foundation. 
+This Discord server aims to discuss research, technology, community development, and collaboration with the IOTA Foundation. 
 
 **House Rules**
 
 - Please be respectful to one another, regardless of what is being said. We won't tolerate disrespectful language or inappropriate emoji responses. 
 - This server is about technology, not coin prices. But, we are currently allowing speculation again on this server under some strict conditions.
-- This server is intended as a family-friendly server where anyone interested in IOTA can contribute, regardless of age. Please refrain from posting material that isn't deemed "family-friendly."
+- This server is intended as a family-friendly server where anyone interested in IOTA & Shimmer can contribute, regardless of age. Please refrain from posting material that isn't deemed "family-friendly."
 - Advertising on this server is not allowed. But, we allow projects that use the IOTA/Shimmer technology to inform the community of their progress. This is permitted only in the 🦄｜promote-your-project channel, which was created explicitly for this reason. Please note, none of the projects that post on this server are formally endorsed by the IOTA Foundation. Make sure to do your own research and read the disclaimer in the channel.
 - Please keep the discussions on-topic based on the channel you are in. Off-topic talk is only allowed in the <#397873500326461448> and the <#738665041217323068> channel as long as it's respectful, family-friendly, and not about religion/politics. Talks about coin prices are limited to the <#738665041217323068> channel. 
 - If you need help or technical support, use the dedicated <#398499876935303186> channel.
@@ -31,7 +31,7 @@ This Discord server aims to discuss IOTA research, technology, community develop
 - No affiliate links.
 - No fake news/screenshots.
 - Please do not ping IOTA Founders or members unless they are actively engaging in the channel you are in.
-- If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead (<@105306128761503744>, <@451662043506933780>, or <@192661920153731074>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288>, <@453235678386585601> or <@403205091479519233>
+- If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead (<@105306128761503744>, <@451662043506933780>, <@192661920153731074> or Ecosystem Developer <@749204051878608978>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288>, <@453235678386585601> or <@403205091479519233>
 - Please get in touch with <@839573754686078978> if you have any issues with another user of this Discord. 
 - Public feedback on Mod decisions is not allowed. Instead, use the <@839573754686078978> account or "direct message" a mod if you disagree with the moderation.
 - Questions about development progress should be constructive and sincere. 
@@ -71,6 +71,6 @@ Please remember one of the essential rules in the crypto space: you are your own
 
 **Quick tips**
 
-- You can change your nickname by clicking on "IOTA" on the top left of the screen - choose "Change Nickname" from the dropdown. This only changes your nickname on the IOTA Discord 
+- You can change your nickname by clicking on "IOTA & Shimmer" on the top left of the screen - choose "Change Nickname" from the dropdown. This only changes your nickname on the IOTA & Shimmer Discord 
 - We have a few region- and language-specific channels on this Discord, but they are read-only by default. To gain writing privileges, please visit the <#884705920028930068> channel and click on the regional emoji to access the dedicated channel 
 If you do not want to receive updates on a particular channel or category or want to hide specific channels, please "right-click" on that channel and choose the option "mute channel". You can also hide muted channels by following the official instructions here: <https://support.discord.com/hc/en-us/articles/213599277-How-do-I-hide-muted-channels->
