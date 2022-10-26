@@ -61,9 +61,9 @@ https://www.reddit.com/r/shimmer/
 
 Shimmer Coin
 ⚠️ Always make sure Standard is: **BASE_Token** and ID is **4219**
-https://media.discordapp.net/attachments/1034707661419204691/1034709520175337472/unknown.png?width=617&height=600
+https://media.discordapp.net/attachments/1034707661419204691/1034709520175337472/unknown.png
 
 Shimmer OG NFT
 Immutable issuer address
 **smr1zru82lsuclkkprh705kv87s75785gq2utetdz4py29k2jdy69006umcx6ev**
-https://media.discordapp.net/attachments/1034707661419204691/1034712446943899688/unknown.png?width=811&height=333
+https://media.discordapp.net/attachments/1034707661419204691/1034712446943899688/unknown.png
