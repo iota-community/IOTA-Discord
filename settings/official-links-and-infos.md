@@ -1,3 +1,5 @@
+Use these messages with the Dyno Automessage module to post them to the official-links-and-infos channel on Discord
+
 # Message 1
 
 🌐 **Websites**
