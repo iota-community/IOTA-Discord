@@ -228,6 +228,26 @@ If the exchange never opened withdrawal since April 2021, then it might be a goo
 If you exchange tokens on Binance and it does not recognize Firefly's address, then you have bought IOTA tokens wrapped on Binance's BEP-20 network. To get tokens to Firefly one needs IOTA tokens that reside on IOTA's network (called the Tangle). To achieve this, send the tokens back to Binance and withdraw them to the Tangle network.
 Should Binance have issues with withdrawals, get in touch with Binance's support.
 
+### !moonaco
+
+🎧 Listen to the Moonaco Podcast
+
+Spotify: https://open.spotify.com/show/387nS9czdx47kJZ6Mho28m
+Apple Podcasts: <https://podcasts.apple.com/us/podcast/the-moonaco-podcast/id1605887650>
+
+### !claim-shimmer
+
+Hello, here are the instructions to claim your Shimmer tokens
+
+<https://blog.shimmer.network/how-to-claim-smr-firefly/>
+
+### !ledger-connection
+
+The Ledger connection to the PC is relatively delicate. What can break it is:
+- Non original cable > Use original cable
+- Connection through an USB HUB, frontal ports, USB ports on the monitor > Connect directly and on PC use back ports
+- Any open App that connects to the Ledger > Close Ledger Live, Brave Browser or any Browser that has Metamask installed, or any wallet extensions that connects to the Ledger Nano
+
 ### !ff-shimmer
 
 Firefly Shimmer is available only on Desktop.
