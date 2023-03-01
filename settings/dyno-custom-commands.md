@@ -227,3 +227,10 @@ If the exchange never opened withdrawal since April 2021, then it might be a goo
 
 If you exchange tokens on Binance and it does not recognize Firefly's address, then you have bought IOTA tokens wrapped on Binance's BEP-20 network. To get tokens to Firefly one needs IOTA tokens that reside on IOTA's network (called the Tangle). To achieve this, send the tokens back to Binance and withdraw them to the Tangle network.
 Should Binance have issues with withdrawals, get in touch with Binance's support.
+
+### !ff-shimmer
+
+Firefly Shimmer is available only on Desktop.
+It is possible to download it from <https://firefly.iota.org>
+https://media.discordapp.net/attachments/401389663236915200/1080386226303021127/image.png
+
