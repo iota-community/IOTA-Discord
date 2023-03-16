@@ -95,11 +95,13 @@ and make sure that the dates are selected (by clicking on them) like in this pic
 ## iotaseed.io or online seed generator scam
 - Did the tokens move away between **January 2018** and **January 2019** and the seed was generated using iotaseed.io, then it is a theft case from the iotaseed.io scam.
 
+  **UPDATE 28th January 2023**
+  [Man jailed for £2m cryptocurrency theft](https://serocu.police.uk/man-jailed-for-2m-cryptocurrency-theft/)
+
   **UPDATE 8th April 2022**
   Message by Demolux_D1#1694
   Hi there! Just a quick update to the iotaseed.io scam (aka online seed generator scam): The trial has been postponed until 25th January 2023. If someone of the according github-page sees that please update this info there.
 ![image](https://user-images.githubusercontent.com/7383572/162420116-0a1334a7-f7de-46f3-a8e8-20fc30d8d816.png)
-
   
   **UPDATE 26th November 2021**
   Message by Koen on Discord
