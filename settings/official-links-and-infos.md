@@ -69,3 +69,11 @@ Shimmer OG NFT
 Immutable issuer address
 **smr1zru82lsuclkkprh705kv87s75785gq2utetdz4py29k2jdy69006umcx6ev**
 https://media.discordapp.net/attachments/1034707661419204691/1034712446943899688/unknown.png
+
+# LAST MESSAGE
+
+Use this form to submit your event for the 📅｜events channel
+
+<https://dyno.gg/form/40e3fc56>
+
+Note: Please note that our team reserves the right to make the final decision on whether to post any submitted events on our platform. We appreciate your understanding and look forward to receiving your submissions.
