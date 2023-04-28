@@ -32,6 +32,8 @@ Chronicle API: <https://chronicle.shimmer.network/>
 
 These endpoints have MQTT (via WebSockets) exposed and offer the HTTP REST API (according to the specifications TIP-25, TIP-26 and TIP-28) over TLS 
 
+---- PART 2
+
 **Smart Contracts Development**
 **The Shimmer EVM Testnet**
 
