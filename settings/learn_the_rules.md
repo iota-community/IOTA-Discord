@@ -72,5 +72,5 @@ Please remember one of the essential rules in the crypto space: you are your own
 **Quick tips**
 
 - You can change your nickname by clicking on "IOTA & Shimmer" on the top left of the screen - choose "Change Nickname" from the dropdown. This only changes your nickname on the IOTA & Shimmer Discord 
-- We have a few region- and language-specific channels on this Discord, but they are read-only by default. To gain writing privileges, please visit the <#884705920028930068> channel and click on the regional emoji to access the dedicated channel 
+- We have a few region- and language-specific channels on this Discord, but they are read-only by default. To gain writing privileges, please visit the <id:customize> channel and click on the regional emoji to access the dedicated channel 
 If you do not want to receive updates on a particular channel or category or want to hide specific channels, please "right-click" on that channel and choose the option "mute channel". You can also hide muted channels by following the official instructions here: <https://support.discord.com/hc/en-us/articles/213599277-How-do-I-hide-muted-channels->
