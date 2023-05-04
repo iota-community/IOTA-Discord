@@ -14,6 +14,7 @@ The testnet is the public infrastructure for developers. It runs the beta releas
 Node API: <https://api.testnet.shimmer.network/>
 Example info endpoint: <https://api.testnet.shimmer.network/api/core/v2/info>
 Available routes: <https://api.testnet.shimmer.network/api/routes>
+REST API Swagger: <https://editor.swagger.io/?url=https://raw.githubusercontent.com/iotaledger/tips/main/tips/TIP-0013/rest-api.yaml>
 Health endpoint: <https://api.testnet.shimmer.network/health>
 MQTT: <wss://api.testnet.shimmer.network:443/api/mqtt/v1>
 Faucet Info API: <https://faucet.testnet.shimmer.network/api/info>
@@ -26,6 +27,7 @@ These endpoints expose MQTT (via WebSockets and raw TCP) and offer the HTTP REST
 Node API: <https://api.shimmer.network/>
 Example info endpoint: <https://api.shimmer.network/api/core/v2/info>
 Available routes: <https://api.shimmer.network/api/routes>
+REST API Swagger: <https://editor.swagger.io/?url=https://raw.githubusercontent.com/iotaledger/tips/main/tips/TIP-0013/rest-api.yaml>
 Health endpoint: <https://api.shimmer.network/health>
 MQTT: <wss://api.shimmer.network:443/api/mqtt/v1>
 Chronicle API: <https://chronicle.shimmer.network/>
