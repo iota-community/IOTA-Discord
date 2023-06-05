@@ -10,7 +10,7 @@ _Please make sure to read and agree upon these house rules_
 
 This Discord server aims to discuss research, technology, community development, and collaboration with the IOTA Foundation. 
 
-**House Rules**
+# House Rules
 
 - Please be respectful to one another, regardless of what is being said. We won't tolerate disrespectful language or inappropriate emoji responses. 
 - This server is about technology, not coin prices. But, we are currently allowing speculation again on this server under some strict conditions.
@@ -31,7 +31,7 @@ This Discord server aims to discuss research, technology, community development,
 - No affiliate links.
 - No fake news/screenshots.
 - Please do not ping IOTA Founders or members unless they are actively engaging in the channel you are in.
-- If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead (<@105306128761503744>, <@451662043506933780>, <@192661920153731074> or Ecosystem Developer <@749204051878608978>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288>, <@453235678386585601> or <@403205091479519233>
+- If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead (<@105306128761503744>, <@451662043506933780>, <@192661920153731074> or Ecosystem Developer <@749204051878608978>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288> or <@453235678386585601>
 - Please get in touch with <@839573754686078978> if you have any issues with another user of this Discord. 
 - Public feedback on Mod decisions is not allowed. Instead, use the <@839573754686078978> account or "direct message" a mod if you disagree with the moderation.
 - Questions about development progress should be constructive and sincere. 
@@ -40,7 +40,7 @@ This Discord server aims to discuss research, technology, community development,
 
 ## Message 3
 
-**Security Considerations**
+# Security Considerations
 
 - The team will never DM you first!
 - Do NOT use online recovery phrase/seed generators or any other tools offering such things (e.g., alternative wallets) unless you fully trust the third party offering them; you are giving them access to your funds by doing this. 
@@ -51,7 +51,7 @@ This Discord server aims to discuss research, technology, community development,
 
 ## Message 4
 
-<#918064808383877130> channel rules
+# <#918064808383877130> channel rules
 
 Please remember one of the essential rules in the crypto space: you are your own bank and are responsible for researching the applications you use. No one can perform this due diligence for you. The projects discussed in this channel are not related to or developed by the IOTA Foundation. The IOTA Foundation cannot guarantee the security or functionality of projects introduced in this channel.
 
@@ -69,7 +69,7 @@ Please remember one of the essential rules in the crypto space: you are your own
 
 ## Message 6
 
-**Quick tips**
+# Quick tips
 
 - You can change your nickname by clicking on "IOTA & Shimmer" on the top left of the screen - choose "Change Nickname" from the dropdown. This only changes your nickname on the IOTA & Shimmer Discord 
 - We have a few region- and language-specific channels on this Discord, but they are read-only by default. To gain writing privileges, please visit the <id:customize> channel and click on the regional emoji to access the dedicated channel 
