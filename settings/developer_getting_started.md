@@ -1,14 +1,14 @@
-**What is Shimmer?**
+# What is Shimmer?
 Shimmer is an innovation network where the community tries out new protocol changes before we are deploying them on the more conservative IOTA network. It has its own supply of tokens called $SMR, and is a network with value, NOT a Testnet!
 
 The Shimmer network uses the new IOTA Stardust protocol that upgrades the current IOTA Chrysalis protocol version by introducing computation and utility to the ledger by introducing several new features.
 
-**Start developing on Shimmer**
+## Start developing on Shimmer
 <https://shimmer.network/developer>
 
 **👉  Skip installing nodes, get started using the public endpoints**
 
-**Shimmer Public Testnet** - Environment for Developers
+### Shimmer Public Testnet - Environment for Developers
 The testnet is the public infrastructure for developers. It runs the beta releases of the IOTA Stardust software and runs a faucet to get tokens for testing easily.
 
 Node API: <https://api.testnet.shimmer.network/>
@@ -22,7 +22,7 @@ Faucet Enqueue API: <https://faucet.testnet.shimmer.network/api/enqueue>
 Chronicle (archive Node) API: <https://chronicle.testnet.shimmer.network/>
 These endpoints expose MQTT (via WebSockets and raw TCP) and offer the HTTP REST API (according to these specifications TIP-25, TIP-26) over TLS.
 
-**Shimmer Mainnet**
+### Shimmer Mainnet
 
 Node API: <https://api.shimmer.network/>
 Example info endpoint: <https://api.shimmer.network/api/core/v2/info>
@@ -36,12 +36,12 @@ These endpoints have MQTT (via WebSockets) exposed and offer the HTTP REST API (
 
 ---- PART 2
 
-**Smart Contracts Development**
-**The Shimmer EVM Testnet**
+# Smart Contracts Development
+## The Shimmer EVM Testnet
 
 The easiest way to get started developing on the Shimmer EVM Testnet is to connect to our public node infrastructure through Metamask. 
 
-**Chain details**
+### Chain details
 Network name: ShimmerEVM Testnet
 JSON-RPC Endpoint: <https://json-rpc.evm.testnet.shimmer.network/>
 Websocket JSON-RPC Endpoint: <wss://ws.json-rpc.evm.testnet.shimmer.network/>
