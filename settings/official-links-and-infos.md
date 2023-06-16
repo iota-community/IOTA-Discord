@@ -2,83 +2,78 @@ Use these messages with the Dyno Automessage module to post them to the official
 
 # Message 1
 
-🌐 **Websites**
+# 🌐 **Websites**
 
 IOTA Foundation Official Website
-https://iota.org
+<https://iota.org>
 
 Shimmer Official Website
-https://shimmer.network
+<https://shimmer.network>
 
 Assembly Official Website
-https://assembly.sc
+<https://assembly.sc>
 
 IOTA Wiki / Documentation
-https://wiki.iota.org
+<https://wiki.iota.org>
 
 Shimmer Wiki / Documentation
-https://wiki.shimmer.network
+<https://wiki.iota.org/shimmer/>
 
 IOTA Governance Forum 
-https://govern.iota.org
+<https://govern.iota.org>
 
-Ecosystem Development Fund
-https://fund.iota.org
 
-👛 **Wallet**
+# 👛 **Wallet**
 
 Firefly IOTA Wallet
-https://firefly.iota.org
+<https://firefly.iota.org>
 
 **🔎 Explorer**
 IOTA explorer
-https://explorer.iota.org
+<https://explorer.iota.org>
 
 Shimmer explorer
-https://explorer.shimmer.network/
+<https://explorer.shimmer.network/shimmer>
 
-**🐱 Github**
+# **🐱 Github**
 IOTA Foundation GitHub
-https://github.com/iotaledger
+<https://github.com/iotaledger>
 
 IOTA Community GitHub
-https://github.com/iota-community
+<https://github.com/iota-community>
 
-**🐦 Twitter**
+# **🐦 Twitter**
 IOTA
-https://twitter.com/iota
+<https://twitter.com/iota>
 
 Shimmer
-https://twitter.com/shimmernet
+<https://twitter.com/shimmernet>
 
-**👽 Reddit**
+# **👽 Reddit**
 IOTA
-https://www.reddit.com/r/Iota/
+<https://www.reddit.com/r/Iota/>
 
 Shimmer
-https://www.reddit.com/r/shimmer/
+<https://www.reddit.com/r/shimmer/>
 
 # Message 2
-🪙 **Coins and NFTs**
+# 🪙 **Coins and NFTs**
 
-Shimmer Coin
+## Shimmer Coin
 ⚠️ Always make sure Standard is: **BASE_Token** and ID is **4219**
 https://media.discordapp.net/attachments/1034707661419204691/1034709520175337472/unknown.png
 
-Shimmer OG NFT
+## Shimmer OG NFT
 Immutable issuer address
-**smr1zru82lsuclkkprh705kv87s75785gq2utetdz4py29k2jdy69006umcx6ev**
+`smr1zru82lsuclkkprh705kv87s75785gq2utetdz4py29k2jdy69006umcx6ev`
 https://media.discordapp.net/attachments/1034707661419204691/1034712446943899688/unknown.png
 
+## Anne Bonny NFT by TEA
+Immutable issuer address
+`smr1zz5fya99jp04as53z4w08yy4y7uakuu32atd3t8ur7j54zm92zm0s0gmjur`
 
-Use this form to submit your event for the 📅｜events channel
-
-<https://dyno.gg/form/40e3fc56>
-
-Note: Please note that our team reserves the right to make the final decision on whether to post any submitted events on our platform. We appreciate your understanding and look forward to receiving your submissions.
-
-# Last message
-
+# Message 3
+# ShimmerEVM Testnet
 These are the official contract addresses for Tokens in the Shimmer EVM Testnet provided through Faucets by the IOTA Foundation:
 
 {
@@ -120,3 +115,10 @@ These are the official contract addresses for Tokens in the Shimmer EVM Testnet 
     }
 }
 
+# Message 4
+# Add your event!
+Use this form to submit your event for the 📅｜events channel
+
+<https://dyno.gg/form/40e3fc56>
+
+Note: Please note that our team reserves the right to make the final decision on whether to post any submitted events on our platform. We appreciate your understanding and look forward to receiving your submissions.
