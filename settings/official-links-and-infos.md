@@ -24,11 +24,10 @@ IOTA Governance Forum
 
 
 # 👛 **Wallet**
-
-Firefly IOTA Wallet
+Firefly **official** IOTA Wallet
 <https://firefly.iota.org>
 
-**🔎 Explorer**
+# **🔎 Explorer**
 IOTA explorer
 <https://explorer.iota.org>
 
