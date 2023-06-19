@@ -3,7 +3,7 @@ Attention all <@1085941733302468630> users in this channel, please ensure that y
 - Have the most recent version of Discord installed.
 - Proceed to ⁠<#884343710433820712> and select the `Verify` button.
 
-Click on the `Verified` button and follow the steps to complete the verification process.
+Click on the `Verify` button and follow the steps to complete the verification process.
 For additional details regarding the verification, kindly refer to this link:
 <https://wiki.iota.org/community/the-community/discord/#verification-process>
 
