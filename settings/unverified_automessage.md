@@ -1,4 +1,4 @@
-Attention all <@1085941733302468630> users in this channel, please ensure that you:
+Attention all <@&1085941733302468630> users in this channel, please ensure that you:
 
 - Have the most recent version of Discord installed.
 - Proceed to ⁠<#884343710433820712> and select the `Verify` button.
