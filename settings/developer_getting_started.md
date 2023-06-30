@@ -46,14 +46,20 @@ Network name: ShimmerEVM Testnet
 JSON-RPC Endpoint: <https://json-rpc.evm.testnet.shimmer.network/>
 Websocket JSON-RPC Endpoint: <wss://ws.json-rpc.evm.testnet.shimmer.network/>
 Explorer URL: <https://explorer.evm.testnet.shimmer.network/>
-Chain ID: 1071
+Chain ID: 1072
 Token name: SMR
+wSMR Contract Address: `0xdDAA129fac74994b52C691E67981DD08c2b9cC52` 
 
-You can monitor the chain using the block explorer <https://explorer.evm.testnet.shimmer.network/>
+### Pruning
+The public endpoints run on pruned nodes and retain a history of `10000 blocks`, this should be enough for almost any use case - If you run a indexer and need access to a archive node to sync up please reach out to us.
 
+### Toolkit and faucet
 You can use the EVM toolkit <https://evm-toolkit.evm.testnet.shimmer.network/> to add the Testnet to your Metamask settings at the click of a button, request some Testnet SMR through the Faucet <https://evm-toolkit.evm.testnet.shimmer.network/> and start interacting with any deployed dApps – or deploy your own!
 
 We offer a faucet service for several common simulated bridged tokens (fETH, fBTC, fUSDT, etc.) on the Testnet, which enables you to experiment with these assets. We encourage dApps to use these tokens instead of their own simulated bridged tokens, as this will ensure compatibility and interoperability across different applications without requiring a swap. The ERC20 simulated token faucet can be found here <https://evm-faucet.testnet.shimmer.network/>.
+
+### Testnet Tokens in Firefly
+If you have testnet tokens in Firefly you can also send them to the following Chain Address as target network in the latest Beta: `rms1pr75wa5xuepg2hew44vnr28wz5h6n6x99zptk2g68sp2wuu2karywgrztx3`
 
 **Learn how to deploy smart contracts on ShimmerEVM Testnet**
 <https://wiki.iota.org/shimmer/tutorials/shimmerevm-setup/>
