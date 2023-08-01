@@ -4,7 +4,7 @@ Use these messages with Dyno to update the rules. Messages are split to circumve
 
 ## Message 1
 
-Welcome to the official IOTA & Shimmer Discord Server
+# Welcome to the official IOTA & Shimmer Discord Server
 
 _Please make sure to read and agree upon these house rules_
 
@@ -31,7 +31,7 @@ This Discord server aims to discuss research, technology, community development,
 - No affiliate links.
 - No fake news/screenshots.
 - Please do not ping IOTA Founders or members unless they are actively engaging in the channel you are in.
-- If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead (<@105306128761503744>, <@451662043506933780>, <@192661920153731074> or Ecosystem Developer <@749204051878608978>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288> or <@453235678386585601>
+- If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead (<@105306128761503744>, <@451662043506933780> or <@192661920153731074>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288> or <@453235678386585601>
 - Please get in touch with <@839573754686078978> if you have any issues with another user of this Discord. 
 - Public feedback on Mod decisions is not allowed. Instead, use the <@839573754686078978> account or "direct message" a mod if you disagree with the moderation.
 - Questions about development progress should be constructive and sincere. 
