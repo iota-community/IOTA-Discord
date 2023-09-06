@@ -95,6 +95,38 @@ and make sure that the dates are selected (by clicking on them) like in this pic
 ## iotaseed.io or online seed generator scam
 - Did the tokens move away between **January 2018** and **January 2019** and the seed was generated using iotaseed.io, then it is a theft case from the iotaseed.io scam.
 
+### UPDATE 5th September 2023
+
+Dear all, 
+
+I am grateful for all your patience as we worked through the numerous challenges that we have been presented with trying to ensure we can return the stolen funds to you all.  I am delighted to be able to say that those challenges have now been overcome and we can finally begin to return those funds to you.
+
+Behind the scenes a team of dedicated officers and staff have worked tirelessly to overcome many problems and issues that have arisen.  The largest problem to overcome is the current UK policing policy around the control and movement of privacy coins such as Monero. After months of negotiation we have been successful in converting the Monero to UK sterling (FIAT)
+
+The intention is to now return to you the sterling (GBP) equivalent of your initial loss. 
+
+To explain this in detail:
+
+- We have converted the price of IOTA in 2018 at the time of the loss into sterling (GBP) 
+
+- We will return to you this sterling (GBP) loss
+
+- For example if a victim lost £1,000 GBP (converted IOTA) then that victim will receive £1,000 (GBP) 
+
+In the next few days you will all receive an email asking you to provide your bank account details where you wish to receive your funds. 
+
+Once we have your bank details, our finance department will make a transfer to your account as soon as they can.
+
+I would like to make this very clear that the only method of returning your funds will be via bank transfer of sterling (GBP).  We will not be able to convert the sterling (GBP) into any other form of currency or cryptocurrency.
+
+Once again I am very grateful for your patience.
+
+Kind Regards
+Rob
+
+Rob Bryant | Detective Inspector
+SEROCU & Thames Valley Police Cyber Crime & Cryptocurrency Unit and DICE: South East.
+
 ### UPDATE 25th May 2023
   Dear all,
   I totally understand the frustration that many of you will be feeling around returning the stolen funds to you.  
