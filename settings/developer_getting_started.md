@@ -63,3 +63,10 @@ If you have testnet tokens in Firefly you can also send them to the following Ch
 
 **Learn how to deploy smart contracts on ShimmerEVM Testnet**
 <https://wiki.iota.org/shimmer/tutorials/shimmerevm-setup/>
+
+---- PART 3
+
+## ShimmerEVM Resources
+### MULTICALL3 Contract
+Contract Address: **0xcA11bde05977b3631167028862bE2a173976CA11**  
+[Explorer link](https://explorer.evm.shimmer.network/address/0xcA11bde05977b3631167028862bE2a173976CA11?tab=contract)
