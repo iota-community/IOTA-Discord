@@ -3,7 +3,7 @@ Shimmer is an innovation network where the community tries out new protocol chan
 
 The Shimmer network uses the new IOTA Stardust protocol that upgrades the current IOTA Chrysalis protocol version by introducing computation and utility to the ledger by introducing several new features.
 
-## Start developing on Shimmer
+## Start developing on Shimmer (Layer 1, DAG)
 <https://shimmer.network/developer>
 
 **👉  Skip installing nodes, get started using the public endpoints**
@@ -37,7 +37,7 @@ These endpoints have MQTT (via WebSockets) exposed and offer the HTTP REST API (
 ---- PART 2
 
 # Smart Contracts Development
-## The Shimmer EVM Testnet
+## The Shimmer EVM Testnet (Layer 2, Blockchain)
 
 The easiest way to get started developing on the Shimmer EVM Testnet is to connect to our public node infrastructure through Metamask. 
 
@@ -62,10 +62,32 @@ We offer a faucet service for several common simulated bridged tokens (fETH, fBT
 If you have testnet tokens in Firefly you can also send them to the following Chain Address as target network in the latest Beta: `rms1pr75wa5xuepg2hew44vnr28wz5h6n6x99zptk2g68sp2wuu2karywgrztx3`
 
 **Learn how to deploy smart contracts on ShimmerEVM Testnet**
-<https://wiki.iota.org/shimmer/tutorials/shimmerevm-setup/>
+<https://wiki.iota.org/tutorials/shimmerevm-setup/>
 
 ---- PART 3
+## The Shimmer EVM Mainnet
 
+The easiest way to get started developing on the Shimmer EVM Testnet is to connect to our public node infrastructure through Metamask. 
+
+### Chain details
+Network name: ShimmerEVM
+JSON-RPC Endpoint: <https://json-rpc.evm.shimmer.network/>
+Websocket JSON-RPC Endpoint: <wss://ws.json-rpc.evm.shimmer.network/>
+Explorer URL: <https://explorer.evm.shimmer.network/>
+Chain ID: 148
+Token name: SMR
+wSMR Contract Address: `0xBEb654A116aeEf764988DF0C6B4bf67CC869D01b` 
+
+### Pruning
+The public endpoints run on pruned nodes and retain a history of `10000 blocks`, this should be enough for almost any use case - If you run a indexer and need access to a archive node to sync up please reach out to us.
+
+### Toolkit and faucet
+You can use the EVM toolkit <https://evm-toolkit.evm.shimmer.network> to add the Testnet to your Metamask settings at the click of a button.
+
+**Learn how to deploy smart contracts on ShimmerEVM**
+<https://wiki.iota.org/tutorials/shimmerevm-setup/>
+
+---- PART 4
 ## ShimmerEVM Resources
 ### MULTICALL3 Contract
 Contract Address: **0xcA11bde05977b3631167028862bE2a173976CA11**  
