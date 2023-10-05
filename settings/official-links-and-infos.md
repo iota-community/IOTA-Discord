@@ -10,9 +10,6 @@ IOTA Foundation Official Website
 Shimmer Official Website
 <https://shimmer.network>
 
-Assembly Official Website
-<https://assembly.sc>
-
 IOTA Wiki / Documentation
 <https://wiki.iota.org>
 
@@ -33,6 +30,9 @@ IOTA explorer
 
 Shimmer explorer
 <https://explorer.shimmer.network/shimmer>
+
+Shimmer EVM explorer
+<https://explorer.evm.shimmer.network/>
 
 # **🐱 Github**
 IOTA Foundation GitHub
@@ -58,14 +58,15 @@ Shimmer
 # Message 2
 # 🪙 **Coins and NFTs**
 
+## IOTA Coin
+⚠️ Always make sure Standard is: **BASE_Token** and ID is **4219**
+
 ## Shimmer Coin
 ⚠️ Always make sure Standard is: **BASE_Token** and ID is **4219**
-https://media.discordapp.net/attachments/1034707661419204691/1034709520175337472/unknown.png
 
 ## Shimmer OG NFT
 Immutable issuer address
 `smr1zru82lsuclkkprh705kv87s75785gq2utetdz4py29k2jdy69006umcx6ev`
-https://media.discordapp.net/attachments/1034707661419204691/1034712446943899688/unknown.png
 
 ## Anne Bonny NFT by TEA
 Immutable issuer address
