@@ -59,7 +59,7 @@ Shimmer
 # 🪙 **Coins and NFTs**
 
 ## IOTA Coin
-⚠️ Always make sure Standard is: **BASE_Token** and ID is **4219**
+⚠️ Always make sure Standard is: **BASE_Token** and ID is **4218**
 
 ## Shimmer Coin
 ⚠️ Always make sure Standard is: **BASE_Token** and ID is **4219**
@@ -117,7 +117,7 @@ These are the official contract addresses for Tokens in the Shimmer EVM Testnet 
 
 # Message 4
 # Add your event!
-Use this form to submit your event for the 📅｜events channel
+Use this form to submit your event for the <#454202015749373982>
 
 <https://dyno.gg/form/40e3fc56>
 
