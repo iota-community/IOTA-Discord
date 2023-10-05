@@ -1,0 +1,210 @@
+[discord]
+[discord.iota]
+# You can get your token by following the instructions on
+# https://github.com/42wim/matterbridge/wiki/Discord-bot-setup
+# in particular that the "Members Intent" checkbox is important.
+# If you want roles/groups mentions to be shown with names instead of ID, 
+# you'll need to give your bot the "Manage Roles" permission.
+Token="DISCORD BOT TOKEN"
+Server="397872799483428865" # picked from guilds the bot is connected to
+RemoteNickFormat="[{PROTOCOL}] <{NICK}> "
+AutoWebhooks=true
+
+[discord.touchpoint]
+# You can get your token by following the instructions on
+# https://github.com/42wim/matterbridge/wiki/Discord-bot-setup
+# in particular that the "Members Intent" checkbox is important.
+# If you want roles/groups mentions to be shown with names instead of ID, 
+# you'll need to give your bot the "Manage Roles" permission.
+Token="DISCORD BOT TOKEN"
+Server="<REDACTED>" # picked from guilds the bot is connected to
+RemoteNickFormat="[{PROTOCOL}] <{NICK}> "
+AutoWebhooks=true
+
+## Ecosystem Discords
+[discord.iotaecosysteminteractions]
+# You can get your token by following the instructions on
+# https://github.com/42wim/matterbridge/wiki/Discord-bot-setup
+# in particular that the "Members Intent" checkbox is important.
+# If you want roles/groups mentions to be shown with names instead of ID, 
+# you'll need to give your bot the "Manage Roles" permission.
+Token="DISCORD BOT TOKEN"
+Server="938673938907689062" # picked from guilds the bot is connected to
+RemoteNickFormat="[{PROTOCOL}] <{NICK}> "
+AutoWebhooks=true
+
+
+[telegram]
+[telegram.mytelegram]
+#See https://core.telegram.org/bots#6-botfather 
+#and https://www.linkedin.com/pulse/telegram-bots-beginners-marco-frau
+Token="TELEGRAM BOT TOKEN"
+RemoteNickFormat="{NICK} "
+MessageFormat="HTMLNick"
+
+[slack]
+[slack.iota]
+Token="SLACK BOT TOKEN"
+RemoteNickFormat="{BRIDGE} - @{NICK}"
+
+## IOTA&SHIMMER GATEWAYS
+
+[[gateway]]
+name="IOTA&Shimmer #announcements to https://t.me/officialshimmernetwork"
+enable=true
+
+[[gateway.in]]
+account="discord.iota"
+channel="ID:398069502060789761"
+
+[[gateway.out]]
+account="telegram.mytelegram"
+channel="-1001861036544"
+
+[[gateway]]
+name="IOTA&Shimmer #tech-announcements to https://t.me/officialshimmernetwork"
+enable=true
+
+[[gateway.in]]
+account="discord.iota"
+channel="ID:800810467928309790"
+
+[[gateway.out]]
+account="telegram.mytelegram"
+channel="-1001861036544"
+
+[[gateway]]
+name="IOTA&Shimmer #governance-announcements to https://t.me/officialshimmernetwork"
+enable=true
+
+[[gateway.in]]
+account="discord.iota"
+channel="ID:903229208824778793"
+
+[[gateway.out]]
+account="telegram.mytelegram"
+channel="-1001861036544"
+
+[[gateway]]
+name="IOTA&Shimmer #eco-fund-transparency to https://t.me/officialshimmernetwork"
+enable=true
+
+[[gateway.in]]
+account="discord.iota"
+channel="ID:1159141456389345430"
+
+[[gateway.out]]
+account="telegram.mytelegram"
+channel="-1001861036544"
+
+
+## TOUCHPOINT GATEWAYS
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:930516614842024066"
+
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="<REDACTED>"
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:930458694196539392"
+
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="<REDACTED>"
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:930859863985250364"
+            
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="<REDACTED>"
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:929933107883303012"
+            
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="-678032672"
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:931206858365108224"
+           
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="<REDACTED>"
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:931209763545575454"
+            
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="<REDACTED>"
+
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:915661251135283241"
+            
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="<REDACTED>"
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:931210821344833556"
+            
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="<REDACTED>"
+
+[[gateway]]
+name="<REDACTED>"
+enable=true
+
+[[gateway.inout]]
+account="discord.touchpoint"
+channel="ID:937726996362977340"
+            
+[[gateway.inout]]
+account="telegram.mytelegram"
+channel="<REDACTED>"
