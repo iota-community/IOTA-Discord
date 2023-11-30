@@ -26,12 +26,12 @@ This Discord server aims to discuss research, technology, community development,
 
 - No invites to other servers. 
 - Investment advice, telling others to buy or sell, is not allowed - Spamming the channels is not allowed.
-- Trolls are not welcome. Please refrain from memeing, repeating the same argument over and over again, and causing drama. 
+- Trolls are not welcome. Please refrain from memeing, repeating the same argument repeatedly, and causing drama. 
 - No personal attacks.
 - No affiliate links.
 - No fake news/screenshots.
 - Please do not ping IOTA Founders or members unless they are actively engaging in the channel you are in.
-- If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead (<@105306128761503744>, <@451662043506933780> or <@192661920153731074>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288> or <@453235678386585601>
+- If you need to talk to a IOTA Foundation member, feel free to contact one of the Community managers/liaisons instead <@451662043506933780> or <@192661920153731074>. For development questions contact the Developer Experience team members <@386583711774408704>, <@452961361421664288> or <@453235678386585601>
 - Please get in touch with <@839573754686078978> if you have any issues with another user of this Discord. 
 - Public feedback on Mod decisions is not allowed. Instead, use the <@839573754686078978> account or "direct message" a mod if you disagree with the moderation.
 - Questions about development progress should be constructive and sincere. 
@@ -53,7 +53,7 @@ This Discord server aims to discuss research, technology, community development,
 
 # <#918064808383877130> channel rules
 
-Please remember one of the essential rules in the crypto space: you are your own bank and are responsible for researching the applications you use. No one can perform this due diligence for you. The projects discussed in this channel are not related to or developed by the IOTA Foundation. The IOTA Foundation cannot guarantee the security or functionality of projects introduced in this channel.
+Please remember one of the essential rules in the crypto space: you are your own bank and are responsible for researching the applications you use. No one can perform this due diligence for you. The projects discussed in this channel are unrelated to or developed by the IOTA Foundation. The IOTA Foundation cannot guarantee the security or functionality of projects introduced in this channel.
 
 - Disclaimer: The IOTA Foundation does not provide personalized investment recommendations or advisory services. Any information provided in the <#918064808383877130> channel to users regarding new projects is not, and should not be, considered advice of any kind and is for information purposes only. That a project is discussed on <#918064808383877130> does **not** mean that it is in any way approved, checked, audited, and/or associated with the IOTA Foundation.
 
